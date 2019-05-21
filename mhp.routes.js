@@ -5,7 +5,7 @@ module.exports = function(router) {
     siteTitle: 'MHP Test Site',
   });
 
-  router.get('/posts/:slug', middleware.posts());
+  router.get('/posts/:category/:slug', middleware.posts());
   router.get('/', middleware.indexes({}));
 
   router.get('/atom.xml', middleware.atom({
