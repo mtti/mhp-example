@@ -61,10 +61,6 @@ module.exports = (env, argv) => {
   config.plugins.push(new MiniCssExtractPlugin({
     filename: cssFilename,
   }));
-  /*config.plugins.push(new HtmlWebPackPlugin({
-    template: './src/client/index.html',
-    filename: './index.html',
-  }));*/
   config.plugins.push(new ManifestPlugin());
 
   return config;
