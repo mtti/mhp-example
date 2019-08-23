@@ -1,4 +1,4 @@
-const { generatePostPages, generatePostIndexes, generateAtomFeed } = require('@mtti/mhp');
+const { generatePostPages, generatePostIndexes, generateFeeds } = require('@mtti/mhp');
 
 module.exports = function(router) {
   router.setGlobals({
@@ -8,7 +8,7 @@ module.exports = function(router) {
   router.get('/posts/:category/:slug', generatePostPages());
   router.get('/', generatePostIndexes());
 
-  router.get('/atom.xml', generateAtomFeed({
+  router.get('/feed', generateFeeds({
     uuid: '120024cf-8721-4492-b4de-eb6847c92abb',
     title: 'MHP Test Site Main Atom Feed',
   }));

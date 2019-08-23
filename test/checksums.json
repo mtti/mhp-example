@@ -4,8 +4,12 @@
         "24da8ac86620319569af5bc731466926"
     ],
     [
-        "atom.xml",
+        "feed.atom.xml",
         "1e7ebba4c628617381bd9db4e22c5f5c"
+    ],
+    [
+        "feed.rss.xml",
+        "92fe1faa2eec1a2653645a7fb9e6cc1a"
     ],
     [
         "index-10.html",
