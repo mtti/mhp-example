@@ -7,14 +7,14 @@
   "scripts": {
     "start": "concurrently \"npm run watch\" \"mhp serve --verbose\"",
     "watch": "watch \"npm run build:local\" posts templates assets pages",
-    "build": "npm run build:frontend && npm run build:backend",
-    "build:local": "npm run build:frontend && npm run build:backend:local",
-    "build:frontend": "webpack",
-    "build:frontend:development": "webpack --mode=development",
-    "build:backend": "mhp --verbose --keep=assets",
-    "build:backend:local": "mhp --verbose --keep=assets --baseUrl=\"http://localhost:8080\"",
-    "test:backend": "mhp --keep=assets && node test/scripts.js compare",
-    "test:backend:snapshot": "node test/scripts.js save",
+    "build": "npm run build:assets && npm run build:content",
+    "build:local": "npm run build:assets && npm run build:content:local",
+    "build:assets": "webpack",
+    "build:assets:development": "webpack --mode=development",
+    "build:content": "mhp --verbose --keep=assets",
+    "build:content:local": "mhp --verbose --keep=assets --baseUrl=\"http://localhost:8080\"",
+    "test:content": "mhp --keep=assets && node test/scripts.js compare",
+    "test:content:snapshot": "node test/scripts.js save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
