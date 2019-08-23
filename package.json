@@ -14,6 +14,7 @@
     "build:backend": "mhp --verbose --keep=assets",
     "build:backend:local": "mhp --verbose --keep=assets --baseUrl=\"http://localhost:8080\"",
     "test:backend": "mhp --keep=assets && node test/scripts.js compare",
+    "test:backend:snapshot": "node test/scripts.js save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
@@ -30,7 +31,7 @@
     "html-webpack-plugin": "3.2.0",
     "jquery": "3.4.1",
     "mini-css-extract-plugin": "0.8.0",
-    "@mtti/mhp": "mtti/mhp#eea9b63d5ad8939bd43f297a1b01cc8498296396",
+    "@mtti/mhp": "mtti/mhp#365d20f1fa310ed664192d444dfcce720645c99f",
     "node-sass": "4.12.0",
     "popper.js": "1.15.0",
     "prop-types": "15.7.2",
