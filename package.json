@@ -32,7 +32,7 @@
     "jquery": "3.4.1",
     "mini-css-extract-plugin": "0.8.0",
     "@mtti/mhp": "mtti/mhp#ee0ee08cb0411dd4cfba6c5205219a8295924902",
-    "@mtti/ssup": "mtti/ssup#bc1666f307e50df3994ed3859d03741779b7c8af",
+    "@mtti/ssup": "mtti/ssup#6a8f966497765b9a0192e19c4d2ac1ab398da122",
     "node-sass": "4.12.0",
     "popper.js": "1.15.0",
     "prop-types": "15.7.2",
