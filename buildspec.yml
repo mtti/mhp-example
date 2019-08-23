@@ -2,11 +2,13 @@ version: 0.2
 phases:
   install:
     commands:
-      - npm install -g mtti/mhp#ee0ee08cb0411dd4cfba6c5205219a8295924902
-      - npm install -g mtti/ssup#5411666e1d04bdcbf32002f343548b942d429717
+      - npm install -g npx
   pre_build:
     commands:
       - npm install
   build:
     commands:
       - npm run build
+  post_build:
+    commands:
+      - npx ssup ./dist
