@@ -31,7 +31,7 @@
     "html-webpack-plugin": "3.2.0",
     "jquery": "3.4.1",
     "mini-css-extract-plugin": "0.8.0",
-    "@mtti/mhp": "mtti/mhp#365d20f1fa310ed664192d444dfcce720645c99f",
+    "@mtti/mhp": "mtti/mhp#ee0ee08cb0411dd4cfba6c5205219a8295924902",
     "node-sass": "4.12.0",
     "popper.js": "1.15.0",
     "prop-types": "15.7.2",
