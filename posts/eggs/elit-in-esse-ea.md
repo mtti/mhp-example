@@ -2,7 +2,7 @@
 category: eggs
 uuid: 1ddf1068-2144-4f53-9009-833acafb5d01
 title: Elit in esse ea.
-publishedAt: '2019-04-18 13:59+00:00'
+publishedAt: '2019-04-18T13:59+00:00'
 ---
 
 Velit occaecat labore fugiat dolor veniam dolor exercitation sint. Esse consequat laboris incididunt excepteur nisi anim dolor ea culpa sit cillum. Labore mollit pariatur minim irure. Enim tempor id ad eiusmod consequat officia nostrud in do et veniam mollit ad elit. Ea sit occaecat aute fugiat cupidatat nisi sit qui officia quis sunt. Quis id officia consectetur magna adipisicing occaecat esse ea ex ex consequat aliqua eu.

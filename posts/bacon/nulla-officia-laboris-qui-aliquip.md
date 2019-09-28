@@ -2,7 +2,7 @@
 category: bacon
 uuid: f58a1307-f0aa-480d-bae1-7574cb2ada13
 title: Nulla officia laboris qui aliquip.
-publishedAt: '2018-06-16 13:43+00:00'
+publishedAt: '2018-06-16T13:43+00:00'
 ---
 
 Ut velit est voluptate nostrud labore mollit. Amet sint consequat aute nulla duis commodo minim sunt reprehenderit non ex aliqua. Sunt duis et sit sunt nostrud nulla cillum aliqua consequat consequat. Ullamco enim veniam labore laboris consectetur ad cupidatat minim do voluptate incididunt nulla et reprehenderit. Laboris eiusmod est labore eu ea id adipisicing cupidatat incididunt.

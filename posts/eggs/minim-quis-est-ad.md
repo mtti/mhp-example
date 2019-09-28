@@ -2,7 +2,7 @@
 category: eggs
 uuid: 5d5adbdf-e5b2-40ab-99fd-865f8055b5b0
 title: Minim quis est ad.
-publishedAt: '2018-09-23 19:32+00:00'
+publishedAt: '2018-09-23T19:32+00:00'
 ---
 
 Cupidatat in ipsum reprehenderit eiusmod proident quis eiusmod laborum. Nulla incididunt ex exercitation sunt cillum aliqua amet labore. Reprehenderit pariatur id nostrud et exercitation dolore adipisicing. Incididunt ut exercitation duis id et laborum aliquip. Ea nostrud aliqua reprehenderit excepteur elit ut aliquip ipsum reprehenderit duis in qui laboris velit.

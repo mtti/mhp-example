@@ -2,7 +2,7 @@
 category: bacon
 uuid: 9e582084-8670-4717-b954-92e5b849eab2
 title: Sint incididunt sunt excepteur proident.
-publishedAt: '2018-09-02 03:34+00:00'
+publishedAt: '2018-09-02T03:34+00:00'
 ---
 
 Elit voluptate consectetur ullamco elit aliqua esse deserunt esse velit mollit magna. Quis ea id excepteur adipisicing mollit aliqua in duis elit adipisicing voluptate quis. Deserunt cupidatat magna commodo magna qui magna. Aliqua consectetur cupidatat eiusmod incididunt.

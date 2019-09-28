@@ -2,7 +2,7 @@
 category: bacon
 uuid: 1e2fd0ec-7529-4d28-bf36-8c43bcdf77c8
 title: Eiusmod tempor cillum nulla ullamco.
-publishedAt: '2018-07-10 00:51+00:00'
+publishedAt: '2018-07-10T00:51+00:00'
 ---
 
 Voluptate excepteur est proident pariatur voluptate consequat veniam culpa aliqua Lorem in. Commodo ullamco ex laboris eiusmod culpa et cupidatat magna et. Nostrud dolor eiusmod eu tempor excepteur anim pariatur sint sint in laboris.

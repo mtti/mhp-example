@@ -2,7 +2,7 @@
 category: bacon
 uuid: 5b9cfa7a-dc5c-452d-9b9f-437e7044efca
 title: Consequat et sunt amet dolore deserunt.
-publishedAt: '2018-06-28 05:07+00:00'
+publishedAt: '2018-06-28T05:07+00:00'
 ---
 
 Sint officia aute aliquip sit nulla elit magna nisi sint veniam pariatur dolore. Voluptate eiusmod culpa labore elit ut ut ut officia duis culpa laborum culpa. Officia Lorem sint excepteur non reprehenderit. In reprehenderit amet culpa consequat consequat excepteur. Cupidatat deserunt occaecat elit pariatur sit esse labore ad nisi.

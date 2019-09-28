@@ -2,7 +2,7 @@
 category: eggs
 uuid: 3bd8ffbe-fdcf-4957-9ac4-2a720b0b4716
 title: Esse ea incididunt ea.
-publishedAt: '2018-05-25 19:42+00:00'
+publishedAt: '2018-05-25T19:42+00:00'
 ---
 
 Ipsum magna enim incididunt mollit magna ad adipisicing adipisicing ipsum eiusmod adipisicing et laborum. Do quis cillum aute incididunt aute sit pariatur. Consectetur enim irure ex in est nulla est qui proident eiusmod pariatur do esse non. Ipsum ipsum incididunt irure id ad veniam laboris. Reprehenderit eu ullamco minim anim irure anim sint qui ut.

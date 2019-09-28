@@ -2,7 +2,7 @@
 category: bacon
 uuid: 998a68b0-13aa-47e8-903d-ac4e1cce961b
 title: Incididunt enim aliqua eiusmod laborum.
-publishedAt: '2018-08-04 00:12+00:00'
+publishedAt: '2018-08-04T00:12+00:00'
 ---
 
 Ullamco nostrud laboris occaecat excepteur sint. Excepteur minim id deserunt est fugiat tempor minim id veniam dolor ullamco. Anim incididunt exercitation dolor nostrud tempor. Ipsum tempor laboris deserunt proident. Velit excepteur nisi mollit consequat excepteur aute non adipisicing et ipsum consequat magna in. Sint anim cillum adipisicing est dolor cillum magna.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: 725caf90-7f35-4515-a51f-054c9f428680
 title: Sint eu ullamco ex esse.
-publishedAt: '2018-11-05 01:35+00:00'
+publishedAt: '2018-11-05T01:35+00:00'
 ---
 
 Culpa mollit minim incididunt pariatur magna. Exercitation dolore culpa pariatur proident proident et. Reprehenderit occaecat est adipisicing ut ut aliqua ut culpa et anim minim occaecat esse commodo. Ullamco excepteur ut laborum ullamco qui voluptate nostrud. Consectetur commodo ad irure deserunt.

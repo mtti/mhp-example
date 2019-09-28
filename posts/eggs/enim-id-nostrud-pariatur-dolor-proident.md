@@ -2,7 +2,7 @@
 category: eggs
 uuid: c3cb5f27-6dfb-4726-abff-02ce463183a3
 title: Enim id nostrud pariatur dolor proident.
-publishedAt: '2019-01-19 07:03+00:00'
+publishedAt: '2019-01-19T07:03+00:00'
 ---
 
 Dolore incididunt laborum mollit dolor commodo labore cupidatat mollit deserunt et exercitation sunt eiusmod reprehenderit. Aute aliqua reprehenderit laboris consectetur irure anim proident Lorem cupidatat. Mollit labore elit id nisi eiusmod ullamco excepteur cillum.

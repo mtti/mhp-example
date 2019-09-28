@@ -2,7 +2,7 @@
 category: bacon
 uuid: 4c89b726-a98d-4cf7-84ba-9d34a0564543
 title: Excepteur minim consequat in proident.
-publishedAt: '2018-07-13 21:21+00:00'
+publishedAt: '2018-07-13T21:21+00:00'
 ---
 
 Nulla incididunt in mollit et cupidatat do. Nisi aliqua qui consectetur eiusmod cillum. Do irure commodo irure duis tempor Lorem amet cillum fugiat. Sint culpa dolore ut consectetur in voluptate exercitation quis sit id sunt dolore.

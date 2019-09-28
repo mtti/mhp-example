@@ -2,7 +2,7 @@
 category: bacon
 uuid: 0a570a02-c459-45f1-96e0-a2a726c8f902
 title: Est cupidatat ea qui mollit incididunt.
-publishedAt: '2018-11-17 00:54+00:00'
+publishedAt: '2018-11-17T00:54+00:00'
 ---
 
 Veniam labore irure consectetur eu nostrud minim laboris sit commodo occaecat pariatur incididunt et anim. In ex ipsum et irure adipisicing ut irure commodo esse voluptate cupidatat aliqua ullamco. Labore et dolore aliquip voluptate. Excepteur eu nostrud incididunt veniam laboris culpa eu velit excepteur ullamco. Sint do ut sit nulla sunt tempor officia ullamco incididunt ullamco.

@@ -2,7 +2,7 @@
 category: eggs
 uuid: f876d4ec-5269-4ca7-b2bc-43d8e58812c0
 title: Labore est in ipsum.
-publishedAt: '2018-09-01 10:54+00:00'
+publishedAt: '2018-09-01T10:54+00:00'
 ---
 
 Eiusmod exercitation ex aliquip deserunt elit laborum Lorem commodo. Eu ipsum consectetur sunt aliqua voluptate esse. Elit dolor nisi ad laborum eu veniam id. Voluptate culpa sunt laboris do. Aliqua elit occaecat consectetur occaecat nulla. Esse pariatur ipsum nulla exercitation in duis sit ut pariatur ullamco sit excepteur labore ipsum. Ea aliqua ad labore veniam est.

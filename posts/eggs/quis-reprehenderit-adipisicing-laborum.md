@@ -2,7 +2,7 @@
 category: eggs
 uuid: 0920ef52-6703-4104-934d-8c123fd13951
 title: Quis reprehenderit adipisicing laborum.
-publishedAt: '2019-01-11 20:55+00:00'
+publishedAt: '2019-01-11T20:55+00:00'
 ---
 
 Ut non enim amet do voluptate nostrud deserunt irure labore. Labore minim velit ipsum ea aute sit culpa sint. Nostrud ex et nisi ullamco sit tempor reprehenderit deserunt irure anim. Id tempor in labore in et nulla aliqua adipisicing labore minim commodo.

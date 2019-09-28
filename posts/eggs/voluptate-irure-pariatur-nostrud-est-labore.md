@@ -2,7 +2,7 @@
 category: eggs
 uuid: 9dab004e-617d-4280-babf-95e59f009e71
 title: Voluptate irure pariatur nostrud est labore.
-publishedAt: '2018-07-30 04:35+00:00'
+publishedAt: '2018-07-30T04:35+00:00'
 ---
 
 Laborum exercitation aliquip pariatur laboris elit irure eu deserunt eiusmod ea aliqua. Pariatur tempor amet velit eiusmod. Fugiat amet elit ad ex. Irure proident velit magna ex deserunt.

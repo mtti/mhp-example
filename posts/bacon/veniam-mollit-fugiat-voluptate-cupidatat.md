@@ -2,7 +2,7 @@
 category: bacon
 uuid: a2ff5783-0a9c-4773-841c-5423bca8e0be
 title: Veniam mollit fugiat voluptate cupidatat.
-publishedAt: '2018-11-02 00:22+00:00'
+publishedAt: '2018-11-02T00:22+00:00'
 ---
 
 Dolor ea nostrud incididunt do esse duis deserunt elit excepteur esse mollit. Ex in exercitation aliqua nulla laborum culpa in. Id occaecat nulla nulla commodo dolore Lorem nostrud cillum officia.

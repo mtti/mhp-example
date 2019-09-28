@@ -2,7 +2,7 @@
 category: bacon
 uuid: 80e3bb73-83bf-4550-9d8a-6913b873368d
 title: Ullamco anim consectetur ipsum laborum nulla.
-publishedAt: '2018-09-26 01:48+00:00'
+publishedAt: '2018-09-26T01:48+00:00'
 ---
 
 Labore exercitation veniam anim tempor aliqua. Cillum duis dolor id dolor et consequat culpa exercitation veniam ullamco laboris adipisicing. Sit ipsum excepteur minim consectetur incididunt exercitation quis pariatur cupidatat ut dolore sit. Ipsum cillum aute sunt veniam culpa ut. Excepteur est cillum veniam laborum labore exercitation veniam reprehenderit do laborum irure nostrud commodo. Amet et cupidatat nisi nostrud.

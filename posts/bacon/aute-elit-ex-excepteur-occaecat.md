@@ -2,7 +2,7 @@
 category: bacon
 uuid: 2748de4f-d81e-489f-8698-c32bc70cb874
 title: Aute elit ex excepteur occaecat.
-publishedAt: '2018-09-01 09:14+00:00'
+publishedAt: '2018-09-01T09:14+00:00'
 ---
 
 Cillum cillum mollit laborum Lorem aliqua commodo est minim. Elit fugiat deserunt anim nulla duis minim excepteur in amet aliquip. Consequat ipsum consectetur occaecat excepteur velit nisi aliqua. Ullamco pariatur nostrud labore nostrud proident cillum ad esse. Elit elit reprehenderit est ad tempor deserunt ut excepteur.

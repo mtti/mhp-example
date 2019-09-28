@@ -2,7 +2,7 @@
 category: eggs
 uuid: 7df58412-7890-442f-a9bc-9d29221b7892
 title: Proident aliquip sunt fugiat est.
-publishedAt: '2018-06-17 05:36+00:00'
+publishedAt: '2018-06-17T05:36+00:00'
 ---
 
 Veniam amet sunt mollit pariatur magna officia magna aliqua dolore. Enim enim fugiat nisi reprehenderit aliqua est. Laboris mollit officia sit ipsum cupidatat sunt ea incididunt deserunt. Do ut enim officia proident ea labore anim labore duis incididunt. Sint dolore et qui aute eu officia Lorem consequat excepteur aute eiusmod sunt. Occaecat laborum incididunt id nostrud exercitation non. Do aliquip proident non laboris velit deserunt proident.

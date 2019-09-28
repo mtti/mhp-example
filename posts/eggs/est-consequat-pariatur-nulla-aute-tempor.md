@@ -2,7 +2,7 @@
 category: eggs
 uuid: 6e83b632-f454-4b1c-ac7c-8e2f5410a101
 title: Est consequat pariatur nulla aute tempor.
-publishedAt: '2019-04-24 17:41+00:00'
+publishedAt: '2019-04-24T17:41+00:00'
 ---
 
 Incididunt tempor proident esse adipisicing nostrud exercitation pariatur magna ex. Irure incididunt fugiat esse commodo aute qui eu esse commodo laboris. Commodo irure duis est ullamco consequat elit ea nisi ad qui veniam. Tempor minim incididunt quis reprehenderit veniam dolore in. Ea sit magna laborum qui ea et exercitation voluptate cillum excepteur elit dolore. Cillum culpa aliqua magna consequat amet.

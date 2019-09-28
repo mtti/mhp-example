@@ -2,7 +2,7 @@
 category: eggs
 uuid: 832bf119-e841-49b2-8010-4248c09a1859
 title: Ut est ea ullamco id.
-publishedAt: '2018-10-01 21:26+00:00'
+publishedAt: '2018-10-01T21:26+00:00'
 ---
 
 Commodo veniam reprehenderit fugiat dolore. Minim consequat ea adipisicing est. Id nulla excepteur aute minim excepteur quis. Aliquip laboris culpa sint ex qui. Reprehenderit velit sit ad consectetur ad culpa laboris. Ea tempor ut amet in labore Lorem elit veniam laborum ex enim consequat. Id mollit Lorem ullamco officia ullamco proident irure ut ex tempor dolore veniam in sit.

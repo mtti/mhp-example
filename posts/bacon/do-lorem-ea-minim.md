@@ -2,7 +2,7 @@
 category: bacon
 uuid: ee467e4f-6ff6-4f3b-9210-12d7e55ee1a5
 title: Do Lorem ea minim.
-publishedAt: '2019-01-27 13:53+00:00'
+publishedAt: '2019-01-27T13:53+00:00'
 ---
 
 Voluptate anim et dolore excepteur consequat ullamco adipisicing elit nostrud. Anim anim ipsum velit id mollit minim adipisicing commodo ad sint. Dolor excepteur adipisicing eiusmod officia voluptate dolore proident et ipsum. Amet nisi mollit aliquip cillum qui non.

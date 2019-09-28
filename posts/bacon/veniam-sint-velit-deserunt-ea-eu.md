@@ -2,7 +2,7 @@
 category: bacon
 uuid: dd2e8948-8e22-44c7-becc-a2d5550d58a5
 title: Veniam sint velit deserunt ea eu.
-publishedAt: '2018-09-05 08:06+00:00'
+publishedAt: '2018-09-05T08:06+00:00'
 ---
 
 Voluptate velit velit laboris sit laborum anim. Nostrud irure do consequat ad sunt sunt dolor excepteur qui est esse anim id. Velit ea labore reprehenderit pariatur in cillum ad sunt quis id ea elit eu amet. Anim nulla excepteur exercitation cupidatat mollit. Ut sint amet et fugiat reprehenderit laborum ex aliqua id deserunt veniam. Officia nisi irure laboris enim.

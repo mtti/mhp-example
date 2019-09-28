@@ -2,7 +2,7 @@
 category: bacon
 uuid: 07da81a8-ff01-4e08-a8e9-cde782e6bbc1
 title: Laborum minim commodo deserunt.
-publishedAt: '2019-03-13 10:33+00:00'
+publishedAt: '2019-03-13T10:33+00:00'
 ---
 
 Incididunt eu et dolor occaecat mollit esse consequat culpa ex incididunt ipsum. Occaecat irure excepteur aliquip non sint exercitation. Nisi aute amet aliquip velit aute nisi consequat minim occaecat. Id aliqua ea sunt ea enim tempor veniam occaecat. Do occaecat ullamco magna ullamco nisi laboris adipisicing minim quis irure ullamco.

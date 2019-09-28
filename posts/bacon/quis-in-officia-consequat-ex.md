@@ -2,7 +2,7 @@
 category: bacon
 uuid: a4770668-6074-47c9-9162-cc8de887c38e
 title: Quis in officia consequat ex.
-publishedAt: '2019-03-29 01:34+00:00'
+publishedAt: '2019-03-29T01:34+00:00'
 ---
 
 Exercitation dolore irure dolore deserunt ut aliquip laborum tempor ea culpa sint ullamco non. Laboris non cillum esse deserunt in ex veniam. Reprehenderit tempor in in deserunt cupidatat occaecat non enim voluptate. Ex cupidatat velit fugiat nostrud anim qui elit. Commodo aliquip mollit nisi aliquip sunt duis cupidatat id sint exercitation commodo laboris.

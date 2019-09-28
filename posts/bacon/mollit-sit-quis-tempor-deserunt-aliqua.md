@@ -2,7 +2,7 @@
 category: bacon
 uuid: 7bb214ea-2f91-42c9-86ab-6e54866f4a38
 title: Mollit sit quis tempor deserunt aliqua.
-publishedAt: '2018-10-27 08:24+00:00'
+publishedAt: '2018-10-27T08:24+00:00'
 ---
 
 Quis reprehenderit aliquip nisi eu enim occaecat sunt. Nostrud irure tempor nisi laborum anim. Est quis incididunt ea enim sit nostrud. Quis officia ut dolore esse esse quis dolore dolor nulla cupidatat. Tempor minim consectetur nisi tempor qui. Laboris ut id nostrud quis nisi duis eu commodo proident veniam laboris do.

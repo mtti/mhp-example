@@ -2,7 +2,7 @@
 category: bacon
 uuid: 9b399171-12bf-4ddc-983e-947b39eaec86
 title: Laboris et id exercitation.
-publishedAt: '2018-07-01 23:08+00:00'
+publishedAt: '2018-07-01T23:08+00:00'
 ---
 
 Magna consectetur adipisicing nostrud pariatur. Qui eiusmod occaecat aliquip occaecat. Ad enim minim voluptate anim.

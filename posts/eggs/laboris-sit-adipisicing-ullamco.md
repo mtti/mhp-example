@@ -2,7 +2,7 @@
 category: eggs
 uuid: eb83194b-afb7-4506-b4b5-9716746097b3
 title: Laboris sit adipisicing ullamco.
-publishedAt: '2018-07-27 14:25+00:00'
+publishedAt: '2018-07-27T14:25+00:00'
 ---
 
 Ex cupidatat consequat officia incididunt et do aliquip tempor. Sunt veniam sunt mollit dolore est quis veniam laborum consectetur quis sunt labore. Consequat ullamco proident et ad. Incididunt Lorem Lorem voluptate ad mollit officia. Sunt excepteur magna ea ipsum officia. Et excepteur reprehenderit qui reprehenderit dolore adipisicing adipisicing laborum commodo. Est esse esse aliquip culpa cupidatat.

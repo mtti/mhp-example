@@ -2,7 +2,7 @@
 category: eggs
 uuid: 7e840093-94a8-4a08-b33e-50af33c56f98
 title: Minim aute dolore quis commodo.
-publishedAt: '2019-01-14 22:31+00:00'
+publishedAt: '2019-01-14T22:31+00:00'
 ---
 
 Reprehenderit labore id in commodo magna in aliquip ut. Laboris proident excepteur ea ipsum et laborum tempor excepteur et. Dolor cupidatat magna aute Lorem velit. Occaecat nostrud proident id labore laborum duis ipsum sint.

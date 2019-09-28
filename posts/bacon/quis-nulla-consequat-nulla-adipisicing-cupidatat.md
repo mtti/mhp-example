@@ -2,7 +2,7 @@
 category: bacon
 uuid: 5a38d277-c4e6-47ad-853b-043da025bb57
 title: Quis nulla consequat nulla adipisicing cupidatat.
-publishedAt: '2019-01-18 22:56+00:00'
+publishedAt: '2019-01-18T22:56+00:00'
 ---
 
 Amet nisi consectetur reprehenderit culpa exercitation commodo velit pariatur cillum consectetur officia irure. Ipsum veniam in in est laboris amet et magna id deserunt excepteur est. Et laborum veniam velit laboris enim excepteur reprehenderit. Cillum labore voluptate proident elit exercitation et ad. Ullamco sint dolore occaecat excepteur est ipsum consectetur et duis cupidatat quis. Sit excepteur ut duis sit eiusmod id anim adipisicing ea.

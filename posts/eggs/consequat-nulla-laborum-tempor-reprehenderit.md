@@ -2,7 +2,7 @@
 category: eggs
 uuid: 6c1c6f4e-e91c-4fc3-8c53-464752f2af4c
 title: Consequat nulla laborum tempor reprehenderit.
-publishedAt: '2019-04-27 09:02+00:00'
+publishedAt: '2019-04-27T09:02+00:00'
 ---
 
 Ut ad aliquip incididunt ea aute labore tempor excepteur id irure duis do deserunt. Esse aliquip duis et eu ad anim do est ea id dolor et ea excepteur. Sunt irure non culpa aliquip et.

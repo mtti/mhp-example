@@ -2,7 +2,7 @@
 category: eggs
 uuid: b5ea1bbc-baab-41e0-a46f-22f18706e0a6
 title: Eiusmod aliqua deserunt excepteur consectetur minim.
-publishedAt: '2019-03-04 06:14+00:00'
+publishedAt: '2019-03-04T06:14+00:00'
 ---
 
 Lorem esse dolore qui mollit adipisicing cupidatat. Deserunt culpa deserunt exercitation Lorem esse ea adipisicing. Anim voluptate dolore dolore cillum adipisicing in.

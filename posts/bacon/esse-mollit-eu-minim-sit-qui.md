@@ -2,7 +2,7 @@
 category: bacon
 uuid: 2ac88393-3225-45df-ae44-f6cb0ad0e0b1
 title: Esse mollit eu minim sit qui.
-publishedAt: '2019-01-24 00:12+00:00'
+publishedAt: '2019-01-24T00:12+00:00'
 ---
 
 Irure dolore laboris pariatur ipsum minim adipisicing esse nostrud excepteur elit qui amet. Minim ipsum incididunt id aute magna mollit Lorem mollit ex occaecat. Cillum ullamco qui eiusmod et occaecat elit tempor. Excepteur Lorem incididunt dolor est laborum excepteur nostrud id non eiusmod sit.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: 57af50bc-d7fb-4942-86d3-3862b188e902
 title: Commodo cupidatat cupidatat excepteur tempor.
-publishedAt: '2018-07-27 13:21+00:00'
+publishedAt: '2018-07-27T13:21+00:00'
 ---
 
 Dolore ex veniam eu sint aliqua. Tempor sint duis fugiat nostrud eu magna est consequat ex ea nostrud. Deserunt eu adipisicing ex consequat consectetur qui officia enim. Elit enim cupidatat enim aliquip. Eu nulla et commodo ut duis culpa occaecat nisi pariatur irure.

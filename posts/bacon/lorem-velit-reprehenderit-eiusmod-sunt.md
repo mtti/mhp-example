@@ -2,7 +2,7 @@
 category: bacon
 uuid: 512c5d87-d8e7-4951-acf3-473ee0e1cd8a
 title: Lorem velit reprehenderit eiusmod sunt.
-publishedAt: '2018-12-24 19:06+00:00'
+publishedAt: '2018-12-24T19:06+00:00'
 ---
 
 Adipisicing sit adipisicing in consectetur ea proident id adipisicing sint sint. Do tempor laboris elit do aute pariatur nisi cillum irure. Officia reprehenderit proident adipisicing eu deserunt ex. Eu velit anim consectetur deserunt reprehenderit do anim aute deserunt. Lorem id adipisicing id excepteur id nisi aute amet voluptate ea id id labore. Nulla officia mollit excepteur aliqua magna commodo Lorem aliquip. Dolore fugiat Lorem nisi irure non aliquip non veniam eiusmod nostrud sint magna nulla.

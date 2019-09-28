@@ -2,7 +2,7 @@
 category: eggs
 uuid: 865ea17a-09b2-4ced-a5f3-8cc34b120f8a
 title: Veniam minim commodo aliquip.
-publishedAt: '2019-05-14 01:21+00:00'
+publishedAt: '2019-05-14T01:21+00:00'
 ---
 
 Ullamco reprehenderit deserunt laborum commodo incididunt fugiat ipsum amet aliqua laborum et. Sint ullamco irure officia tempor esse in deserunt exercitation ipsum anim reprehenderit pariatur dolore. Sit commodo culpa aute cillum dolore. Nulla do dolore sint ut culpa occaecat. Exercitation culpa deserunt aliquip nulla fugiat anim sint veniam pariatur sit reprehenderit ipsum.

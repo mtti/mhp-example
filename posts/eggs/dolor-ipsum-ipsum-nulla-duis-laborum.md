@@ -2,7 +2,7 @@
 category: eggs
 uuid: 2fcffa2b-863d-465b-8f00-c7a95b66d83f
 title: Dolor ipsum ipsum nulla duis laborum.
-publishedAt: '2018-11-13 11:57+00:00'
+publishedAt: '2018-11-13T11:57+00:00'
 ---
 
 Exercitation tempor eu nisi ullamco ullamco cillum do. Mollit veniam deserunt adipisicing sit amet proident. Laboris ipsum in tempor mollit enim duis qui est officia sint consectetur. Veniam veniam aliqua exercitation nostrud ipsum esse consequat pariatur. Pariatur esse incididunt ea consequat sit fugiat Lorem officia sunt ut qui sint.

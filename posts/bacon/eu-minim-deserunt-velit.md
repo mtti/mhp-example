@@ -2,7 +2,7 @@
 category: bacon
 uuid: fef5e571-d593-42e9-93d0-a9ad52e728e2
 title: Eu minim deserunt velit.
-publishedAt: '2018-06-15 17:01+00:00'
+publishedAt: '2018-06-15T17:01+00:00'
 ---
 
 Et culpa irure commodo sit mollit anim non consectetur excepteur. Nulla ex non consectetur minim nostrud reprehenderit dolore do proident dolor non labore. Quis et elit nulla eiusmod. Commodo occaecat adipisicing do culpa. Excepteur cillum consequat et eu eu deserunt fugiat id dolore et proident aliquip.

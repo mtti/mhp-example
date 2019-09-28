@@ -2,7 +2,7 @@
 category: bacon
 uuid: 9db04fb0-dbcf-467d-af1c-5f9d76997191
 title: Sit nulla aute excepteur.
-publishedAt: '2018-07-08 10:36+00:00'
+publishedAt: '2018-07-08T10:36+00:00'
 ---
 
 Cillum dolor nostrud qui velit aliquip Lorem. Tempor sunt anim id pariatur cillum est ipsum. Do ea dolor officia adipisicing exercitation officia eu amet. Adipisicing aliqua Lorem eiusmod culpa anim. Commodo amet laborum duis culpa dolore adipisicing sunt minim. Culpa amet et deserunt ea nostrud exercitation eiusmod consequat. Sunt aliquip dolore aliqua reprehenderit duis.

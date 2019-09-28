@@ -2,7 +2,7 @@
 category: eggs
 uuid: ba0a9f0a-dae6-4b69-b741-bf6d4513802e
 title: Nulla aute Lorem ea proident sunt.
-publishedAt: '2019-02-19 17:07+00:00'
+publishedAt: '2019-02-19T17:07+00:00'
 ---
 
 Enim proident cillum id ullamco fugiat. Pariatur id eu fugiat ullamco esse irure id sint. Pariatur nisi incididunt commodo do occaecat eu occaecat deserunt aliquip incididunt in voluptate. Elit esse pariatur aliquip mollit anim officia labore est enim dolor proident consectetur anim.

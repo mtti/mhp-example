@@ -2,7 +2,7 @@
 category: eggs
 uuid: c7bbffc8-df7e-42df-96f2-4f3a31c8ae8f
 title: In labore ea laborum laborum Lorem.
-publishedAt: '2019-01-23 11:42+00:00'
+publishedAt: '2019-01-23T11:42+00:00'
 ---
 
 Enim quis consectetur voluptate est do irure consectetur pariatur officia qui do. Quis aute ipsum culpa deserunt aliquip esse Lorem exercitation. Dolore id cillum adipisicing ipsum do dolor. Nisi eiusmod in pariatur laborum id nostrud laboris adipisicing dolore nisi nulla aliquip.

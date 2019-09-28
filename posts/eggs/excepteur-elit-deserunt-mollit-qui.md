@@ -2,7 +2,7 @@
 category: eggs
 uuid: 4eac6a1c-c0f0-4a7b-a134-aaabe057c50c
 title: Excepteur elit deserunt mollit qui.
-publishedAt: '2019-02-12 01:49+00:00'
+publishedAt: '2019-02-12T01:49+00:00'
 ---
 
 Ex minim labore deserunt sit dolore nostrud laborum est. Irure sint velit nisi dolor eu est eiusmod ad consequat et reprehenderit do consequat adipisicing. Ad adipisicing pariatur commodo adipisicing velit veniam esse pariatur eu ad anim irure. Aliqua nulla do sit officia sunt occaecat incididunt veniam officia minim elit. Eu eiusmod veniam laboris aliquip consectetur ullamco cillum cupidatat fugiat deserunt exercitation cupidatat. Incididunt ipsum do eu ex dolor aute aute anim commodo exercitation sit do occaecat nostrud.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: c23e3ed8-5654-4a0c-9f65-875845c75819
 title: Culpa proident in eiusmod magna.
-publishedAt: '2018-10-13 11:05+00:00'
+publishedAt: '2018-10-13T11:05+00:00'
 ---
 
 Eu quis labore veniam Lorem minim mollit aliqua adipisicing. Laboris et consequat est do Lorem dolore consectetur. Dolor dolor laborum consectetur qui non minim proident nulla sunt quis esse in. Fugiat Lorem enim dolor nulla do est irure ullamco quis.

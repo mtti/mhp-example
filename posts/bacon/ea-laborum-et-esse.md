@@ -2,7 +2,7 @@
 category: bacon
 uuid: 8962c05f-a94f-452e-a5c4-f361f6df6cec
 title: Ea laborum et esse.
-publishedAt: '2019-05-16 12:00+00:00'
+publishedAt: '2019-05-16T12:00+00:00'
 ---
 
 Consectetur laborum in ullamco dolore nisi cillum ullamco reprehenderit. In occaecat aute consequat sit nisi veniam cupidatat. Velit laborum mollit qui ex commodo duis sit occaecat tempor qui. Minim amet pariatur est tempor mollit esse aliqua amet et officia commodo eu. Enim Lorem aute labore cillum commodo do ut adipisicing nostrud laboris tempor nulla laboris. Ea qui aute do cillum incididunt minim eiusmod mollit do eu enim anim adipisicing et.

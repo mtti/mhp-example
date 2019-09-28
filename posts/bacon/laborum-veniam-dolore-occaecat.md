@@ -2,7 +2,7 @@
 category: bacon
 uuid: 9a17ce01-6050-44d0-acd0-df629b1e9e35
 title: Laborum veniam dolore occaecat.
-publishedAt: '2018-11-01 06:52+00:00'
+publishedAt: '2018-11-01T06:52+00:00'
 ---
 
 Commodo laboris eu mollit dolor consectetur. Deserunt dolor mollit eu et amet occaecat ea tempor dolor aliqua. Duis laboris eu eu proident sit qui eu duis. Ea magna reprehenderit mollit tempor fugiat consectetur nostrud aute sunt. Proident fugiat magna nisi ipsum adipisicing cillum. Commodo nulla magna excepteur tempor pariatur qui cillum aute reprehenderit eiusmod.

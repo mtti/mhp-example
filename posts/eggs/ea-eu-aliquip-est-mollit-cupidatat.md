@@ -2,7 +2,7 @@
 category: eggs
 uuid: b9b9a8f9-8bf8-4c00-9dbb-d01124a8f11c
 title: Ea eu aliquip est mollit cupidatat.
-publishedAt: '2019-01-05 11:53+00:00'
+publishedAt: '2019-01-05T11:53+00:00'
 ---
 
 Esse do reprehenderit eiusmod officia consectetur ad esse ullamco anim proident sint. Fugiat in ad deserunt minim aute id. Labore officia ea aliquip sit do id. Consectetur et do aute cillum fugiat culpa sunt velit est elit. Laborum commodo labore officia amet in officia aute laboris fugiat sint reprehenderit veniam. Amet Lorem sit nostrud laborum velit id. Cupidatat ad non quis labore irure.

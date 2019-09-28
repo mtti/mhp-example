@@ -2,7 +2,7 @@
 category: eggs
 uuid: 1e3f3412-6aaa-4dc0-9ab2-f311b2b785fb
 title: Occaecat aliqua cillum elit aliqua.
-publishedAt: '2019-01-02 00:19+00:00'
+publishedAt: '2019-01-02T00:19+00:00'
 ---
 
 Labore dolor ipsum minim non reprehenderit duis Lorem qui sunt ullamco non nulla ipsum occaecat. Qui officia elit et aute nostrud Lorem anim magna deserunt. Anim reprehenderit Lorem consequat velit ullamco velit exercitation cillum laboris. Cillum minim aliquip reprehenderit nulla qui in officia. Velit do et officia elit in est nisi sit nostrud consequat eu ad.

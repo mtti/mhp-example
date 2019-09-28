@@ -2,7 +2,7 @@
 category: bacon
 uuid: eb21bb0b-ad91-4564-9565-c9134ecb44ca
 title: Voluptate fugiat elit do voluptate ea.
-publishedAt: '2019-05-03 12:44+00:00'
+publishedAt: '2019-05-03T12:44+00:00'
 ---
 
 Irure ea eiusmod sunt irure consectetur laboris consectetur. Tempor proident proident adipisicing in nulla Lorem. Amet consectetur eiusmod ea proident reprehenderit laborum consectetur ipsum ipsum et aute reprehenderit. Ipsum sunt pariatur anim velit non tempor ea amet nisi labore occaecat id aliquip culpa.

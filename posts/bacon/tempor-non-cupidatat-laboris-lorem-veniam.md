@@ -2,7 +2,7 @@
 category: bacon
 uuid: dae8a16e-9ed1-491e-93ee-14be211b3caa
 title: Tempor non cupidatat laboris Lorem veniam.
-publishedAt: '2018-10-04 04:24+00:00'
+publishedAt: '2018-10-04T04:24+00:00'
 ---
 
 Amet dolor quis eu do. Et ut tempor magna consectetur culpa sunt proident culpa. Ut nisi exercitation cupidatat do cupidatat qui veniam. Labore eu in tempor id adipisicing labore sit excepteur in sit. In sit dolore laborum id.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: 1344ad9a-d2f1-42ab-9d2a-3fd1d8e0126d
 title: Magna ut est occaecat.
-publishedAt: '2019-01-16 05:45+00:00'
+publishedAt: '2019-01-16T05:45+00:00'
 ---
 
 Fugiat eiusmod fugiat et occaecat. Nulla culpa dolore consectetur consequat deserunt ut. Fugiat quis sint mollit officia laborum.

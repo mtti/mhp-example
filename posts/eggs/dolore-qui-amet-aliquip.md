@@ -2,7 +2,7 @@
 category: eggs
 uuid: 16aa5826-3945-4dcf-87a6-2cd806f63c77
 title: Dolore qui amet aliquip.
-publishedAt: '2019-05-13 21:46+00:00'
+publishedAt: '2019-05-13T21:46+00:00'
 ---
 
 Cillum minim adipisicing mollit laboris elit. Id fugiat veniam occaecat excepteur elit dolor. Anim esse dolor exercitation deserunt.

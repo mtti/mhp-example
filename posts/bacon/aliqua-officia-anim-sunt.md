@@ -2,7 +2,7 @@
 category: bacon
 uuid: f7744df8-f83d-4439-b711-a0d13c8001bf
 title: Aliqua officia anim sunt.
-publishedAt: '2018-12-04 07:20+00:00'
+publishedAt: '2018-12-04T07:20+00:00'
 ---
 
 Fugiat ut nulla ad nisi velit incididunt anim anim laboris minim proident. Deserunt sint officia nulla excepteur sunt in culpa est sit laboris nostrud et Lorem. Ex exercitation tempor velit ad aute. Sint duis aliqua exercitation ad occaecat proident quis aute sunt. Incididunt laboris laborum do proident ullamco voluptate aliquip qui reprehenderit.

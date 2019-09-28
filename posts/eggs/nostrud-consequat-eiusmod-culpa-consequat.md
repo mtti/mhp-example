@@ -2,7 +2,7 @@
 category: eggs
 uuid: 0b31bd72-a1e0-409b-9ae2-fa80ccdf0096
 title: Nostrud consequat eiusmod culpa consequat.
-publishedAt: '2019-05-15 20:16+00:00'
+publishedAt: '2019-05-15T20:16+00:00'
 ---
 
 Non voluptate culpa esse ipsum incididunt cillum do. Quis non duis enim et. Sint dolore aliqua ipsum dolore deserunt elit irure esse qui ea. Tempor irure eu enim veniam aliqua elit. Magna veniam dolore pariatur culpa id eu.

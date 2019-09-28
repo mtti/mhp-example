@@ -2,7 +2,7 @@
 category: eggs
 uuid: 97be4632-f142-431a-a8d8-5f1b3c8c0223
 title: Aute excepteur Lorem sunt elit.
-publishedAt: '2018-11-06 02:50+00:00'
+publishedAt: '2018-11-06T02:50+00:00'
 ---
 
 Sint irure velit deserunt voluptate qui ut eu nisi eu elit adipisicing. Labore sint occaecat ipsum laboris esse. Anim culpa deserunt est mollit velit culpa adipisicing est cillum ad laborum ea voluptate. Ad amet officia elit cillum culpa reprehenderit ut aliquip.

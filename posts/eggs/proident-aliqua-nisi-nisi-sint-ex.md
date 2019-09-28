@@ -2,7 +2,7 @@
 category: eggs
 uuid: 68159cec-0ad8-4ad6-93e3-13697e1d780d
 title: Proident aliqua nisi nisi sint ex.
-publishedAt: '2018-08-29 11:34+00:00'
+publishedAt: '2018-08-29T11:34+00:00'
 ---
 
 Eiusmod do nisi eiusmod incididunt quis officia esse qui quis elit tempor nostrud tempor. Velit nisi nostrud consectetur ipsum. Ad aliquip aliqua non reprehenderit consequat sunt ullamco qui proident non aliquip anim tempor ad.

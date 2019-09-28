@@ -2,7 +2,7 @@
 category: eggs
 uuid: f00416a0-e915-436e-aabe-4a5376aca473
 title: Sint laboris proident aliqua.
-publishedAt: '2018-08-23 17:20+00:00'
+publishedAt: '2018-08-23T17:20+00:00'
 ---
 
 Aliqua ea Lorem velit ullamco culpa excepteur. Cillum deserunt velit qui id consequat proident. Ad irure et mollit dolore enim officia pariatur do elit esse quis.

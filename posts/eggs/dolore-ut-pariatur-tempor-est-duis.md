@@ -2,7 +2,7 @@
 category: eggs
 uuid: 0734b40b-c09d-4b26-b21f-3a0a77e0c131
 title: Dolore ut pariatur tempor est duis.
-publishedAt: '2018-09-01 09:27+00:00'
+publishedAt: '2018-09-01T09:27+00:00'
 ---
 
 Id ad excepteur ad voluptate pariatur excepteur adipisicing dolore enim fugiat consequat quis ex minim. Nulla quis laboris aliqua dolore ex mollit labore adipisicing anim irure dolor exercitation. Non elit mollit minim culpa minim est. Dolor adipisicing nostrud irure et. Anim commodo aliquip consectetur sint quis nostrud esse velit nulla nostrud incididunt.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: 854a50c7-391e-4ca1-b9a5-95653057c67b
 title: Ex proident fugiat esse dolor sit.
-publishedAt: '2018-05-31 10:14+00:00'
+publishedAt: '2018-05-31T10:14+00:00'
 ---
 
 Eu laboris laborum nulla cupidatat duis. Aliqua aute ipsum occaecat culpa sint voluptate officia qui qui laborum aute exercitation. Aliquip ullamco non cupidatat id eu ea sunt cupidatat irure. Lorem mollit proident non labore id magna Lorem qui commodo.

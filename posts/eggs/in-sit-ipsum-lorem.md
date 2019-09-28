@@ -2,7 +2,7 @@
 category: eggs
 uuid: 0c2a4fa5-d692-4a24-82ca-e33c58886fd8
 title: In sit ipsum Lorem.
-publishedAt: '2018-08-13 15:55+00:00'
+publishedAt: '2018-08-13T15:55+00:00'
 ---
 
 Velit excepteur exercitation velit qui Lorem ex enim nisi. Sunt in et exercitation sunt deserunt amet. Enim culpa veniam fugiat deserunt incididunt aliquip aliqua fugiat enim quis. Esse non aute pariatur mollit reprehenderit deserunt magna reprehenderit cillum consequat dolor nulla nisi laboris. Consequat anim ea nostrud eu. Anim reprehenderit aliquip ipsum ipsum dolor irure ut ullamco voluptate irure occaecat ad ea. Lorem aliqua eu fugiat velit ut ipsum anim et officia nulla aliquip excepteur deserunt cillum.

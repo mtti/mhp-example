@@ -2,7 +2,7 @@
 category: eggs
 uuid: 2044412d-7443-40d3-a22a-53fab3cc097d
 title: Dolor sunt laboris ad in eiusmod.
-publishedAt: '2018-10-09 07:05+00:00'
+publishedAt: '2018-10-09T07:05+00:00'
 ---
 
 Exercitation consequat labore eiusmod velit cillum laboris irure aliquip magna ad dolore. Eiusmod id ex cillum amet. Deserunt enim laborum Lorem incididunt enim nisi officia. Culpa officia consequat ea incididunt anim officia. Laboris tempor fugiat culpa cupidatat qui ipsum ipsum nisi nisi esse aliquip. Aute commodo deserunt aute in do. Dolor occaecat fugiat quis commodo sint labore officia laborum.

@@ -2,7 +2,7 @@
 category: eggs
 uuid: fc30f314-308e-4f47-b563-afb29e093764
 title: Veniam do adipisicing anim elit cillum.
-publishedAt: '2018-09-13 19:41+00:00'
+publishedAt: '2018-09-13T19:41+00:00'
 ---
 
 Consectetur magna ea sint non voluptate commodo pariatur. Adipisicing laboris sint aliqua reprehenderit exercitation reprehenderit reprehenderit anim occaecat. Magna ex labore nulla id et elit et incididunt laboris ea culpa id magna.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: c094eeb4-e000-4e64-a6d3-b783336f4c38
 title: Est mollit eiusmod ad voluptate quis.
-publishedAt: '2018-06-30 22:28+00:00'
+publishedAt: '2018-06-30T22:28+00:00'
 ---
 
 Sunt sint irure labore irure esse in. Deserunt sunt voluptate dolor quis laboris excepteur. Irure proident sint nulla veniam ullamco occaecat ut incididunt cupidatat. Amet cillum officia duis voluptate labore excepteur esse dolore officia.

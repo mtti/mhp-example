@@ -2,7 +2,7 @@
 category: eggs
 uuid: 4a1f3bda-e380-419f-9110-5d08351fd0d2
 title: Aliquip pariatur nostrud laborum magna.
-publishedAt: '2018-07-05 02:53+00:00'
+publishedAt: '2018-07-05T02:53+00:00'
 ---
 
 Mollit tempor pariatur in nulla Lorem. Eu ad laborum aliquip labore nostrud ad Lorem ullamco ipsum Lorem voluptate ad mollit est. Voluptate Lorem nisi mollit irure enim irure pariatur. Anim sunt tempor ut nulla sint velit enim adipisicing aliqua consectetur tempor sit.

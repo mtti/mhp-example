@@ -2,7 +2,7 @@
 category: eggs
 uuid: 527f1798-7a6e-41a4-83ce-632ffeb8925e
 title: Laboris anim duis do minim sunt.
-publishedAt: '2019-05-13 14:46+00:00'
+publishedAt: '2019-05-13T14:46+00:00'
 ---
 
 Ad ut magna tempor exercitation officia laboris consectetur sit. Duis minim pariatur ea dolor elit ut pariatur elit exercitation et culpa eiusmod. Exercitation ad nostrud aliquip qui Lorem. Pariatur mollit anim dolore est amet qui reprehenderit elit duis do duis commodo cillum. Tempor laborum consequat do dolore qui nisi ea. Ullamco do officia qui consequat deserunt Lorem elit ullamco aliquip exercitation irure labore eiusmod in.

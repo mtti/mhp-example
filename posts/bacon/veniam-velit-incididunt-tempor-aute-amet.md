@@ -2,7 +2,7 @@
 category: bacon
 uuid: 23f3b903-f527-4007-82eb-fd3d32243253
 title: Veniam velit incididunt tempor aute amet.
-publishedAt: '2019-03-13 14:05+00:00'
+publishedAt: '2019-03-13T14:05+00:00'
 ---
 
 Lorem excepteur occaecat voluptate ipsum. Voluptate velit laborum laborum sit. Occaecat et id duis et eu aliqua Lorem veniam et cillum non cupidatat id commodo. Non ex sunt mollit eu non sunt Lorem ullamco magna ut culpa proident ea. Lorem ea laborum fugiat eu ex.

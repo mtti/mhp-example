@@ -2,7 +2,7 @@
 category: eggs
 uuid: 45a638a3-b9c8-4a94-a8a4-6848ea9017ab
 title: Duis ex ex aute officia.
-publishedAt: '2018-11-26 06:53+00:00'
+publishedAt: '2018-11-26T06:53+00:00'
 ---
 
 Ex exercitation ipsum dolore deserunt proident ut est. Aliqua nulla dolor velit occaecat voluptate ad in cupidatat elit. Qui irure aliqua consequat sit adipisicing. Ea laboris aliquip veniam magna duis nisi ex sit laboris minim eu. Eu ex elit adipisicing tempor reprehenderit velit sunt culpa nulla do veniam voluptate proident. Et nisi nostrud labore exercitation sunt labore ea exercitation consectetur ad tempor cillum ipsum officia. Velit tempor tempor reprehenderit qui occaecat sunt nulla anim.

@@ -2,7 +2,7 @@
 category: eggs
 uuid: d1de3d9e-4753-4458-bddd-b495d15d6364
 title: Anim sit anim quis.
-publishedAt: '2018-07-04 01:05+00:00'
+publishedAt: '2018-07-04T01:05+00:00'
 ---
 
 Sint in id id in proident. Ex exercitation officia duis cupidatat officia dolor. Incididunt ullamco irure commodo enim pariatur sint sunt exercitation ipsum in pariatur non. Tempor minim excepteur dolor qui ad officia magna consequat.

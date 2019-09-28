@@ -2,7 +2,7 @@
 category: bacon
 uuid: 8bd278ab-83c3-4bfe-908a-214264afb3f1
 title: Culpa do in minim labore.
-publishedAt: '2018-12-26 07:08+00:00'
+publishedAt: '2018-12-26T07:08+00:00'
 ---
 
 Anim esse in eiusmod ullamco velit ex nulla ex eu voluptate laboris pariatur culpa consectetur. Duis veniam sint Lorem sunt ullamco ad non. Fugiat qui ipsum nostrud non minim sit pariatur veniam et sit nostrud. Sit dolor mollit deserunt tempor sunt commodo. Eiusmod qui ut ea fugiat ex et sit. Ut nostrud minim veniam duis cupidatat. Mollit duis officia commodo sit consectetur tempor ipsum minim.

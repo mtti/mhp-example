@@ -2,7 +2,7 @@
 category: eggs
 uuid: 35d1bc25-ef48-44f7-91d8-fbe9aa6be057
 title: Lorem Lorem aute est enim ad.
-publishedAt: '2018-12-25 19:13+00:00'
+publishedAt: '2018-12-25T19:13+00:00'
 ---
 
 Eiusmod amet amet eu eiusmod aliquip. Cillum aute nostrud aliqua ex veniam elit sint. Eiusmod qui qui veniam consectetur occaecat nostrud laborum qui do anim voluptate. Officia veniam anim voluptate excepteur laborum qui eiusmod aliqua nostrud aliqua excepteur anim exercitation tempor. Mollit Lorem tempor mollit aute laborum dolore. Labore reprehenderit ullamco adipisicing excepteur officia laboris do ex ad sit deserunt reprehenderit incididunt.

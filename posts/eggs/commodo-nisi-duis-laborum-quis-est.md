@@ -2,7 +2,7 @@
 category: eggs
 uuid: 1bde64eb-294d-49a3-ad13-77b16d1dab5d
 title: Commodo nisi duis laborum quis est.
-publishedAt: '2018-12-21 21:12+00:00'
+publishedAt: '2018-12-21T21:12+00:00'
 ---
 
 Amet nostrud incididunt enim laborum ipsum nulla dolor exercitation minim. Aliqua aute cillum duis ea officia ad mollit reprehenderit non. Laborum aute sint irure do officia irure eu. Esse occaecat culpa sunt est proident aliquip in consectetur. Culpa amet proident mollit ullamco elit occaecat incididunt ea occaecat. Adipisicing fugiat velit cupidatat anim.

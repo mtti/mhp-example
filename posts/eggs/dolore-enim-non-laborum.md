@@ -2,7 +2,7 @@
 category: eggs
 uuid: 2daa2b32-2a31-44cd-818a-f3ecc054f063
 title: Dolore enim non laborum.
-publishedAt: '2019-01-24 22:32+00:00'
+publishedAt: '2019-01-24T22:32+00:00'
 ---
 
 Labore nulla ad cillum labore dolore fugiat in adipisicing cupidatat incididunt esse ea incididunt. Sunt aliqua est aliqua exercitation qui nulla Lorem ipsum excepteur qui esse. Minim aliqua sint enim quis minim. Reprehenderit labore consectetur velit et anim commodo ea eiusmod et laboris veniam eu. Labore occaecat culpa ea sint eiusmod ad nisi sit ullamco do nisi sint et amet.

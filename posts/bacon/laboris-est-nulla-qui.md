@@ -2,7 +2,7 @@
 category: bacon
 uuid: 1105cf61-5403-4c46-aa8f-14441899d0a6
 title: Laboris est nulla qui.
-publishedAt: '2018-05-30 01:53+00:00'
+publishedAt: '2018-05-30T01:53+00:00'
 ---
 
 Cupidatat dolor sunt magna amet dolore culpa mollit. Tempor irure exercitation est irure dolore officia anim fugiat commodo duis quis pariatur veniam. Pariatur pariatur amet consectetur proident esse Lorem esse voluptate ex consequat. Magna sunt labore consequat Lorem ex proident cupidatat deserunt minim eiusmod. Ullamco amet enim sunt reprehenderit laborum ut consectetur non est nostrud dolor.

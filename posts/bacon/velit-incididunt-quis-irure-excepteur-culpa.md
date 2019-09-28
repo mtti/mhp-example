@@ -2,7 +2,7 @@
 category: bacon
 uuid: 1317889b-c036-4fee-860c-5f767ee9766b
 title: Velit incididunt quis irure excepteur culpa.
-publishedAt: '2018-11-12 22:25+00:00'
+publishedAt: '2018-11-12T22:25+00:00'
 ---
 
 Aliquip aliquip id laborum qui commodo nulla nostrud cupidatat elit veniam. Adipisicing est ut consectetur id occaecat nostrud consectetur pariatur. Reprehenderit duis est in qui dolore. Esse culpa cupidatat qui eiusmod commodo.

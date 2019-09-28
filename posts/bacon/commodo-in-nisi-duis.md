@@ -2,7 +2,7 @@
 category: bacon
 uuid: eca8435e-820f-4b5d-80a9-da05f3ce8503
 title: Commodo in nisi duis.
-publishedAt: '2018-08-02 18:01+00:00'
+publishedAt: '2018-08-02T18:01+00:00'
 ---
 
 Aliqua voluptate officia qui ex magna sunt ex laboris officia. Aliqua do tempor ut elit. Eu aliqua aliqua cupidatat ex elit aliquip tempor et. Aliqua proident amet duis exercitation deserunt voluptate culpa qui duis elit ipsum eu. Aute enim esse ipsum labore.

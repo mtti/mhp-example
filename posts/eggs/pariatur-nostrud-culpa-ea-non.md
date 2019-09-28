@@ -2,7 +2,7 @@
 category: eggs
 uuid: 126c4749-e7f2-4828-8fb5-0980aecf5c61
 title: Pariatur nostrud culpa ea non.
-publishedAt: '2019-05-04 21:48+00:00'
+publishedAt: '2019-05-04T21:48+00:00'
 ---
 
 Eiusmod amet aliquip sunt irure duis cupidatat fugiat duis ad aliqua fugiat. Irure exercitation voluptate in mollit magna enim culpa minim. Mollit pariatur tempor pariatur adipisicing nostrud.

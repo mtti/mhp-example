@@ -2,7 +2,7 @@
 category: eggs
 uuid: 922f2677-ca17-40e2-9988-5f9175432395
 title: Cupidatat velit et voluptate magna velit.
-publishedAt: '2018-12-12 15:03+00:00'
+publishedAt: '2018-12-12T15:03+00:00'
 ---
 
 Officia et consectetur dolore ipsum Lorem dolor irure tempor duis aliquip non veniam ad. Eiusmod ipsum proident est aliqua eiusmod velit non Lorem tempor exercitation adipisicing. Proident sunt enim dolore consectetur.

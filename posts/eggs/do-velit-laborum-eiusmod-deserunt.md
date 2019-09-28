@@ -2,7 +2,7 @@
 category: eggs
 uuid: 0f13830a-6605-4415-8a09-deba5dca9351
 title: Do velit laborum eiusmod deserunt.
-publishedAt: '2019-02-16 04:37+00:00'
+publishedAt: '2019-02-16T04:37+00:00'
 ---
 
 Velit adipisicing fugiat eu ex culpa nostrud est culpa dolor nulla velit quis laboris nostrud. Laborum excepteur non pariatur anim minim commodo aliquip velit. Est cillum occaecat aliquip commodo ipsum irure sint. Nulla pariatur incididunt dolor consequat sint.

@@ -2,7 +2,7 @@
 category: eggs
 uuid: aaa3b293-559d-4f99-a9e3-e212c0f52b17
 title: Ex sunt dolor magna ipsum qui.
-publishedAt: '2018-06-24 00:18+00:00'
+publishedAt: '2018-06-24T00:18+00:00'
 ---
 
 Nulla aliquip esse Lorem in dolore. Ea cillum officia in ipsum laborum in. Non deserunt Lorem velit exercitation veniam ullamco do voluptate deserunt esse anim aliqua. Veniam qui labore est eiusmod voluptate ea ipsum nostrud aliquip incididunt culpa nulla. Exercitation tempor excepteur est nisi quis sit ea minim velit veniam. Elit Lorem non elit cillum incididunt velit qui. Nisi voluptate culpa dolore adipisicing laborum amet tempor officia nulla ex anim proident veniam nulla.

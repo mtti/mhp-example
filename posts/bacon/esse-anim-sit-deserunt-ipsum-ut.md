@@ -2,7 +2,7 @@
 category: bacon
 uuid: b1e3df4e-92c2-47f6-853c-23e9069a350a
 title: Esse anim sit deserunt ipsum ut.
-publishedAt: '2018-07-11 02:09+00:00'
+publishedAt: '2018-07-11T02:09+00:00'
 ---
 
 Est mollit consectetur aliqua elit voluptate aliqua cillum eu sunt laborum irure. Nisi non esse velit esse incididunt do reprehenderit ad. Qui eu officia aute quis cupidatat do irure.

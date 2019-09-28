@@ -2,7 +2,7 @@
 category: bacon
 uuid: db193434-7f18-49cb-b1aa-367afcdac482
 title: Consequat ad excepteur esse.
-publishedAt: '2018-07-02 04:40+00:00'
+publishedAt: '2018-07-02T04:40+00:00'
 ---
 
 Consequat anim incididunt labore ipsum amet nisi ad. Laborum nulla ut veniam tempor amet non nulla nisi voluptate tempor eiusmod esse. Eu cupidatat nisi dolore anim amet do reprehenderit elit et mollit. Est exercitation incididunt id incididunt ea velit minim ut fugiat esse consectetur veniam id in. Occaecat ut consectetur in elit est. In velit tempor do sunt anim cillum occaecat. Incididunt amet commodo nulla tempor non.

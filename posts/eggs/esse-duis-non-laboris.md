@@ -2,7 +2,7 @@
 category: eggs
 uuid: b6784112-96ef-4fc3-bbd7-34252239953a
 title: Esse duis non laboris.
-publishedAt: '2019-03-15 06:15+00:00'
+publishedAt: '2019-03-15T06:15+00:00'
 ---
 
 Ullamco irure commodo non do eiusmod deserunt ipsum voluptate. Velit id labore aliqua enim. Do enim fugiat id aute eiusmod et id commodo est. Cillum tempor anim laborum ipsum fugiat cillum in. Consequat ea Lorem elit reprehenderit ut minim incididunt amet laborum dolore. Anim nostrud esse sit in voluptate pariatur culpa velit mollit.

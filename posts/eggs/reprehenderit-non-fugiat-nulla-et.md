@@ -2,7 +2,7 @@
 category: eggs
 uuid: 2039c702-aea1-4edc-8aa7-4d1eb7f8c17f
 title: Reprehenderit non fugiat nulla et.
-publishedAt: '2018-06-24 03:16+00:00'
+publishedAt: '2018-06-24T03:16+00:00'
 ---
 
 Enim laboris non irure in cillum labore et. Non excepteur eiusmod consectetur enim fugiat Lorem cillum magna eiusmod cupidatat ex amet. Commodo velit cupidatat deserunt veniam fugiat. Labore reprehenderit consectetur veniam laborum eiusmod ullamco laboris proident reprehenderit laboris. Lorem irure nisi deserunt aute ex sit velit mollit irure eu veniam cupidatat.

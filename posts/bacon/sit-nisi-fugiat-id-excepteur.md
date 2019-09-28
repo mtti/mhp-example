@@ -2,7 +2,7 @@
 category: bacon
 uuid: 51799b87-7763-4859-8ed3-3f6a5f1a884d
 title: Sit nisi fugiat id excepteur.
-publishedAt: '2018-08-19 07:19+00:00'
+publishedAt: '2018-08-19T07:19+00:00'
 ---
 
 Aliqua laboris anim ex magna ex laborum est cillum laboris quis incididunt do tempor. Sint irure qui labore voluptate nisi id in magna commodo duis. Do ut proident duis anim. Eu eu mollit mollit occaecat.

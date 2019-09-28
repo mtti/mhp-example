@@ -2,7 +2,7 @@
 category: eggs
 uuid: d4100fc1-f840-4e7d-9034-ae6186d9aacd
 title: Voluptate nostrud nisi voluptate eiusmod elit.
-publishedAt: '2018-09-29 12:36+00:00'
+publishedAt: '2018-09-29T12:36+00:00'
 ---
 
 Minim dolor et enim incididunt deserunt incididunt adipisicing ipsum ea in incididunt deserunt magna. Laboris dolore do mollit commodo aliqua reprehenderit. Nulla elit velit dolore nostrud aliquip do ut. Sit do sunt consequat commodo qui velit velit ad et deserunt nostrud nulla ullamco.

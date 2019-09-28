@@ -2,7 +2,7 @@
 category: bacon
 uuid: 7458719f-2db8-426c-a9a4-fb104d5e30d7
 title: Proident non minim ipsum velit.
-publishedAt: '2018-08-31 22:40+00:00'
+publishedAt: '2018-08-31T22:40+00:00'
 ---
 
 Nostrud quis voluptate sint et nostrud elit eiusmod pariatur dolor velit consectetur nulla mollit. Voluptate laboris laborum velit nostrud aliquip ullamco fugiat nostrud ut laborum aute sint. Do aute anim enim esse culpa elit. Cupidatat laboris ex voluptate laboris. Ullamco magna ad culpa esse ex duis dolore.

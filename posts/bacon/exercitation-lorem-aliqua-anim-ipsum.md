@@ -2,7 +2,7 @@
 category: bacon
 uuid: a48a087c-5d61-4b7d-b5f6-1784a1afd4a5
 title: Exercitation Lorem aliqua anim ipsum.
-publishedAt: '2018-12-23 11:06+00:00'
+publishedAt: '2018-12-23T11:06+00:00'
 ---
 
 Pariatur id fugiat sit laboris sit id culpa amet adipisicing cupidatat aute reprehenderit amet. Dolor occaecat labore consectetur eiusmod labore commodo ea ullamco occaecat sunt esse cillum. Duis cillum in amet sint laboris elit culpa. Eiusmod dolor sit ullamco labore elit aliqua. Labore id aute consectetur et nulla nostrud qui exercitation voluptate duis ad exercitation officia. Commodo adipisicing Lorem fugiat veniam.

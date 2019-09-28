@@ -2,7 +2,7 @@
 category: eggs
 uuid: 34ee326f-73d1-4a05-bded-a0b9229ee51e
 title: Ex exercitation cupidatat consectetur culpa Lorem.
-publishedAt: '2018-07-19 07:31+00:00'
+publishedAt: '2018-07-19T07:31+00:00'
 ---
 
 Cupidatat mollit consectetur officia laboris. Eu ullamco commodo culpa dolore reprehenderit sit labore ipsum. Consequat ex ex ut magna voluptate do aute esse non. Nulla ut deserunt exercitation incididunt ut veniam id ea sit voluptate.

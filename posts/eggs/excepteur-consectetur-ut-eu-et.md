@@ -2,7 +2,7 @@
 category: eggs
 uuid: b60f6fcc-af7a-4a07-81c0-085ca793a6fc
 title: Excepteur consectetur ut eu et.
-publishedAt: '2018-06-04 11:49+00:00'
+publishedAt: '2018-06-04T11:49+00:00'
 ---
 
 Ad deserunt nostrud amet nulla magna occaecat duis aute dolor ut et ipsum esse elit. Adipisicing sit sint ut et veniam consectetur laboris. Officia aliquip cupidatat dolor elit consectetur occaecat enim velit anim commodo sint esse. Nulla tempor proident id officia consequat aute dolore cupidatat in elit exercitation. Cillum commodo excepteur culpa id ex exercitation eu ipsum nostrud nisi dolor. Adipisicing proident excepteur sit aute esse do aute proident aliquip aliquip commodo qui.

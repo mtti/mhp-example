@@ -2,7 +2,7 @@
 category: bacon
 uuid: 895146d6-e8f5-4207-9f1c-8488fbbb900b
 title: Aliquip culpa elit mollit cupidatat ad.
-publishedAt: '2019-01-05 16:51+00:00'
+publishedAt: '2019-01-05T16:51+00:00'
 ---
 
 Nulla sit adipisicing excepteur nostrud ea officia officia cupidatat enim. Quis amet do nisi in tempor excepteur dolore elit do nulla. Dolore eu ipsum id non enim nulla reprehenderit non elit incididunt incididunt cupidatat deserunt. Aliquip elit Lorem adipisicing exercitation in voluptate minim do.

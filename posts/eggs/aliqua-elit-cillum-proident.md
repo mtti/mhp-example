@@ -2,7 +2,7 @@
 category: eggs
 uuid: 850edd2c-9086-44ce-a67d-0d2b64138fa0
 title: Aliqua elit cillum proident.
-publishedAt: '2019-02-14 06:01+00:00'
+publishedAt: '2019-02-14T06:01+00:00'
 ---
 
 Anim magna adipisicing nostrud sint cillum dolor nostrud reprehenderit dolore aute. Eu deserunt ipsum aliquip excepteur. Consequat cupidatat qui sit reprehenderit esse fugiat sunt duis cupidatat.

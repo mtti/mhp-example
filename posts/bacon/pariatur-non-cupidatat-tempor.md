@@ -2,7 +2,7 @@
 category: bacon
 uuid: a5f49424-7a09-4357-824e-af03bca9c64e
 title: Pariatur non cupidatat tempor.
-publishedAt: '2019-02-22 13:13+00:00'
+publishedAt: '2019-02-22T13:13+00:00'
 ---
 
 Dolore enim consequat nisi ex nostrud do. Tempor cillum ut minim eiusmod voluptate esse minim cillum id mollit occaecat. Culpa id ea tempor ipsum anim. Labore velit fugiat excepteur eiusmod. Laboris id pariatur nisi sunt magna et.

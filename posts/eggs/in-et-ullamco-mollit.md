@@ -2,7 +2,7 @@
 category: eggs
 uuid: 25dd80f9-3622-4e6c-80ce-2ff1c8be7823
 title: In et ullamco mollit.
-publishedAt: '2019-05-15 01:48+00:00'
+publishedAt: '2019-05-15T01:48+00:00'
 ---
 
 Amet quis labore magna nulla in mollit consectetur esse eu enim deserunt voluptate enim duis. Ex sint cupidatat cupidatat irure elit nisi ad dolor. Pariatur commodo do in aliqua velit enim Lorem culpa est proident ea. Occaecat ullamco dolore laborum voluptate cillum aliquip eu minim ea sunt in proident laborum nostrud. Aliqua dolor adipisicing ea adipisicing do non nulla cupidatat enim voluptate mollit enim laboris.

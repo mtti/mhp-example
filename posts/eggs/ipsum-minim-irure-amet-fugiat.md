@@ -2,7 +2,7 @@
 category: eggs
 uuid: 503bedec-e069-4c2a-a18e-7c648bedb55e
 title: Ipsum minim irure amet fugiat.
-publishedAt: '2018-10-30 08:58+00:00'
+publishedAt: '2018-10-30T08:58+00:00'
 ---
 
 Occaecat nisi incididunt Lorem esse tempor aute. Tempor commodo magna laboris sit irure in id aute reprehenderit enim pariatur et nulla veniam. Do mollit eu sunt aliqua irure id reprehenderit mollit mollit aliquip incididunt reprehenderit. Officia commodo aute ex aute aliquip incididunt esse laborum excepteur. Elit anim deserunt magna dolore ex laboris proident fugiat culpa. Amet consequat minim aute ea.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: 9c610880-1ab5-4dc1-96f1-c3016de68a2e
 title: Duis et pariatur velit nisi ex.
-publishedAt: '2019-01-20 19:54+00:00'
+publishedAt: '2019-01-20T19:54+00:00'
 ---
 
 Aliquip dolor incididunt in officia irure voluptate irure ipsum aute exercitation et. Cillum id adipisicing anim veniam aute Lorem tempor in tempor amet consectetur dolore. Sunt non non aliquip excepteur dolore irure elit elit proident ullamco elit. Est sit anim occaecat qui. Dolore aliqua consequat voluptate cillum exercitation. Sit nulla ut consequat duis sunt eiusmod quis cupidatat ad enim incididunt do sit.

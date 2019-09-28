@@ -2,7 +2,7 @@
 category: eggs
 uuid: 5386f523-0488-4b55-9962-a305c377d102
 title: Lorem labore occaecat amet.
-publishedAt: '2018-06-19 21:07+00:00'
+publishedAt: '2018-06-19T21:07+00:00'
 ---
 
 Incididunt adipisicing occaecat fugiat magna incididunt Lorem. Culpa irure deserunt pariatur ullamco consequat veniam commodo voluptate velit anim laborum irure exercitation voluptate. Tempor irure dolore voluptate reprehenderit enim. Deserunt adipisicing id exercitation velit nisi consectetur veniam. Non mollit do do pariatur deserunt et ut non voluptate anim magna veniam irure duis. Veniam ad cupidatat dolore aliquip in sunt proident deserunt in aliquip in labore deserunt. Commodo quis reprehenderit nisi quis dolore consequat sunt ipsum.

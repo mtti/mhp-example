@@ -2,7 +2,7 @@
 category: bacon
 uuid: 5facd7ac-0be5-4461-b4f5-f92b978ff6a0
 title: Id dolore aliquip aliqua ea.
-publishedAt: '2019-04-20 20:53+00:00'
+publishedAt: '2019-04-20T20:53+00:00'
 ---
 
 Exercitation ut voluptate laborum ipsum duis mollit dolor Lorem do. Labore sunt mollit elit laborum exercitation do irure ut do irure. Ea nulla nisi in veniam eiusmod proident aute duis cupidatat consectetur exercitation eiusmod duis nulla. Veniam adipisicing ut enim labore. Pariatur eiusmod nisi in adipisicing eiusmod anim tempor. Anim nisi irure cupidatat ex aliquip aliqua ex quis eiusmod est sint do eu. Eu culpa minim aute eiusmod.

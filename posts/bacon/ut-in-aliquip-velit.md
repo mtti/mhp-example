@@ -2,7 +2,7 @@
 category: bacon
 uuid: 4e05d40a-e90e-4943-9a78-05a35acc11c0
 title: Ut in aliquip velit.
-publishedAt: '2018-08-13 05:30+00:00'
+publishedAt: '2018-08-13T05:30+00:00'
 ---
 
 Laborum ullamco cupidatat dolor exercitation officia ex aute eu commodo adipisicing. Voluptate eu sit occaecat aute eiusmod non incididunt pariatur quis. Ex nulla aliquip cillum proident cupidatat. Et nostrud tempor consectetur labore consectetur aliqua quis esse.

@@ -2,7 +2,7 @@
 category: eggs
 uuid: 305668c8-94f8-496b-a838-b38a850cb766
 title: Consectetur ut deserunt irure.
-publishedAt: '2018-06-28 15:02+00:00'
+publishedAt: '2018-06-28T15:02+00:00'
 ---
 
 Anim est officia velit in eiusmod incididunt ut laborum quis esse exercitation aliquip adipisicing excepteur. Sunt tempor sunt deserunt culpa veniam enim. Consectetur sint culpa velit Lorem in sunt mollit in fugiat. Laborum sit nisi eiusmod ut. Do laborum et anim eiusmod.

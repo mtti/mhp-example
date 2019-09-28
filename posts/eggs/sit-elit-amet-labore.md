@@ -2,7 +2,7 @@
 category: eggs
 uuid: e22c89c9-db17-4c50-a6a8-3fc7ef502164
 title: Sit elit amet labore.
-publishedAt: '2019-03-11 01:55+00:00'
+publishedAt: '2019-03-11T01:55+00:00'
 ---
 
 Reprehenderit in ex laborum qui. Irure excepteur amet sint veniam voluptate anim eu reprehenderit commodo mollit qui mollit ut nostrud. Do nostrud ut irure do excepteur fugiat do qui sit ullamco mollit. Nostrud cillum cillum Lorem ea id do velit irure.

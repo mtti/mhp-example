@@ -2,7 +2,7 @@
 category: eggs
 uuid: 2e67d80b-4b1f-4978-9c61-e329cd5df386
 title: Magna commodo irure incididunt anim ullamco.
-publishedAt: '2019-04-02 20:45+00:00'
+publishedAt: '2019-04-02T20:45+00:00'
 ---
 
 Eu anim duis sit amet commodo aute minim duis proident do aliqua duis ea cillum. Quis fugiat qui eiusmod ullamco aliqua commodo reprehenderit commodo labore non velit magna. Do commodo ea ipsum esse et adipisicing deserunt ea velit reprehenderit esse deserunt aute.

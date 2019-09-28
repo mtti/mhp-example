@@ -2,7 +2,7 @@
 category: eggs
 uuid: f60d1bd1-c2b9-4ca4-9f96-e351826a7d0f
 title: Eiusmod dolor non laborum irure commodo.
-publishedAt: '2018-05-29 16:40+00:00'
+publishedAt: '2018-05-29T16:40+00:00'
 ---
 
 Aliquip occaecat officia Lorem laborum. Aute officia deserunt culpa sunt. Aliqua qui ut reprehenderit dolor Lorem reprehenderit sunt est exercitation deserunt pariatur. Laboris cillum id sint consequat minim eu. Labore qui magna cillum ad.

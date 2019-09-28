@@ -2,7 +2,7 @@
 category: bacon
 uuid: 1feea058-80f0-4b7e-8e73-2bdafc7a9612
 title: Et cillum labore amet fugiat.
-publishedAt: '2019-04-06 02:19+00:00'
+publishedAt: '2019-04-06T02:19+00:00'
 ---
 
 Officia consectetur qui dolore pariatur. Nulla minim officia minim magna ullamco voluptate cillum cupidatat voluptate. Nostrud labore id non ad commodo ipsum ipsum ex est elit aliqua mollit.

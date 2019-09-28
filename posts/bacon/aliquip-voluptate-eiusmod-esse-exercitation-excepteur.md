@@ -2,7 +2,7 @@
 category: bacon
 uuid: 91252d4d-55ac-47c2-92c8-c2a6d7f9d053
 title: Aliquip voluptate eiusmod esse exercitation excepteur.
-publishedAt: '2018-06-12 23:02+00:00'
+publishedAt: '2018-06-12T23:02+00:00'
 ---
 
 Tempor ea officia exercitation qui nisi. Voluptate non minim et irure laboris incididunt excepteur officia. Proident eu enim commodo et laborum mollit cillum Lorem ipsum laboris laborum dolore. Pariatur officia commodo aliquip aliquip occaecat Lorem anim. Magna do ad pariatur occaecat tempor ea in eiusmod adipisicing sit velit veniam ea. Duis aliquip labore elit dolor ipsum commodo deserunt veniam ex mollit eiusmod proident veniam. Ea duis ad elit velit adipisicing irure velit eiusmod.

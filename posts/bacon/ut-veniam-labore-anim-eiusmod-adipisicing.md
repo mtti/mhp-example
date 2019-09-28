@@ -2,7 +2,7 @@
 category: bacon
 uuid: 82c8c9fa-4414-4b7b-b64f-7e699a9620fe
 title: Ut veniam labore anim eiusmod adipisicing.
-publishedAt: '2018-06-03 20:01+00:00'
+publishedAt: '2018-06-03T20:01+00:00'
 ---
 
 Aliqua cupidatat nulla commodo aute nulla duis tempor incididunt ad esse aute sint irure. Ullamco voluptate cupidatat reprehenderit consequat. Ad sit eiusmod non aute culpa. Sunt tempor pariatur sit reprehenderit. Enim mollit sunt eiusmod elit elit enim ut eu ipsum esse quis magna minim.

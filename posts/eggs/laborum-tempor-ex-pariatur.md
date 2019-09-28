@@ -2,7 +2,7 @@
 category: eggs
 uuid: a4720ac3-545f-4c8f-9823-28a39afbf8e5
 title: Laborum tempor ex pariatur.
-publishedAt: '2018-12-10 15:54+00:00'
+publishedAt: '2018-12-10T15:54+00:00'
 ---
 
 Minim occaecat proident in esse minim veniam. Sunt nostrud dolor elit consectetur proident qui sunt mollit. Occaecat enim excepteur eiusmod sint labore ea voluptate minim. Ad tempor exercitation nulla magna fugiat non ex labore ex cillum excepteur. Sit mollit enim dolore aute laborum. Anim cillum amet nulla nulla aliqua aliqua excepteur aliquip exercitation excepteur.

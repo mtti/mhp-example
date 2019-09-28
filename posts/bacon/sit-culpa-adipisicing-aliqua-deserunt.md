@@ -2,7 +2,7 @@
 category: bacon
 uuid: 65d9d6cd-59d5-406a-9129-78e86986d7a4
 title: Sit culpa adipisicing aliqua deserunt.
-publishedAt: '2018-11-20 18:21+00:00'
+publishedAt: '2018-11-20T18:21+00:00'
 ---
 
 Voluptate consequat officia ex nulla do sit excepteur. Commodo qui ullamco dolore laboris. Laborum aliquip exercitation velit est commodo quis reprehenderit in enim proident elit minim labore. Duis do voluptate ea velit consequat ipsum Lorem esse commodo exercitation in anim officia do. Exercitation nulla anim veniam deserunt non sit tempor quis elit irure.

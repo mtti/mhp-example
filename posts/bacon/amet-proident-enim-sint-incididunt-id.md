@@ -2,7 +2,7 @@
 category: bacon
 uuid: 2025af9e-a00c-47a0-8e3c-425d0ce6ec60
 title: Amet proident enim sint incididunt id.
-publishedAt: '2018-11-03 01:00+00:00'
+publishedAt: '2018-11-03T01:00+00:00'
 ---
 
 Ea irure deserunt sunt ut officia sunt officia. Consequat qui aute sit minim qui ipsum adipisicing pariatur. Esse Lorem nostrud exercitation dolore laborum. Dolor voluptate ad anim cupidatat laborum do qui veniam.

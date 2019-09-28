@@ -2,7 +2,7 @@
 category: bacon
 uuid: 40196217-dde0-45ee-b9a3-f46f0cc01abd
 title: Veniam fugiat ut minim minim ut.
-publishedAt: '2018-08-26 12:37+00:00'
+publishedAt: '2018-08-26T12:37+00:00'
 ---
 
 Excepteur anim duis Lorem ea in Lorem irure reprehenderit. Adipisicing esse fugiat eiusmod fugiat duis veniam occaecat quis. Sunt officia velit ea elit minim sunt. Veniam aliqua dolore esse est dolor sint eiusmod nulla nulla ea.

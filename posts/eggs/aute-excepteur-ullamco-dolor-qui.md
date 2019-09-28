@@ -2,7 +2,7 @@
 category: eggs
 uuid: 855d53f7-06ae-47ff-8365-b34fa2361db6
 title: Aute excepteur ullamco dolor qui.
-publishedAt: '2018-07-25 16:09+00:00'
+publishedAt: '2018-07-25T16:09+00:00'
 ---
 
 Adipisicing sit excepteur laborum velit laboris Lorem quis elit quis magna dolor anim. Incididunt tempor consequat cillum nulla cillum excepteur esse excepteur labore dolore incididunt eu quis officia. Dolor culpa occaecat aute quis occaecat Lorem commodo nostrud in labore laboris ullamco nostrud id.

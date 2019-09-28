@@ -2,7 +2,7 @@
 category: eggs
 uuid: 725d4859-3978-4ec5-9b86-0802ff85134d
 title: Fugiat tempor aute anim.
-publishedAt: '2018-09-06 23:34+00:00'
+publishedAt: '2018-09-06T23:34+00:00'
 ---
 
 Consectetur ad enim eu irure ullamco aliqua cillum. Exercitation laboris sunt duis officia pariatur nisi dolore ipsum. Occaecat magna aliquip incididunt cillum cillum nulla minim.

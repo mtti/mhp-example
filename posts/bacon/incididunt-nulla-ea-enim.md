@@ -2,7 +2,7 @@
 category: bacon
 uuid: 4962d98c-8bc7-4dbd-8b41-c707df934aa7
 title: Incididunt nulla ea enim.
-publishedAt: '2019-04-09 08:35+00:00'
+publishedAt: '2019-04-09T08:35+00:00'
 ---
 
 Aute excepteur consectetur labore eiusmod id sunt amet id fugiat dolore ipsum excepteur cupidatat veniam. Excepteur fugiat Lorem laboris aute cillum commodo nisi deserunt id cupidatat ex ex ipsum nulla. Incididunt in amet ullamco id in laboris velit aliquip elit laboris occaecat.

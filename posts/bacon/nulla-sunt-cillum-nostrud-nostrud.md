@@ -2,7 +2,7 @@
 category: bacon
 uuid: 32f779e6-59db-42b2-b4fc-82b800a37dec
 title: Nulla sunt cillum nostrud nostrud.
-publishedAt: '2018-09-29 18:03+00:00'
+publishedAt: '2018-09-29T18:03+00:00'
 ---
 
 Eiusmod minim anim id minim esse et incididunt elit id quis reprehenderit. Nostrud irure eiusmod adipisicing nostrud deserunt in minim ut officia adipisicing. Deserunt et cupidatat id mollit ullamco cillum occaecat culpa proident dolore do aliqua et mollit. Officia adipisicing veniam sint nulla culpa cillum nisi ipsum. Ex et sint dolor qui esse commodo reprehenderit sit eiusmod nulla aliquip.

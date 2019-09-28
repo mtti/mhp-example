@@ -2,7 +2,7 @@
 category: eggs
 uuid: bafe84b6-b49d-4d14-a4f5-16fe20521a96
 title: Velit ea do sunt.
-publishedAt: '2019-04-06 18:45+00:00'
+publishedAt: '2019-04-06T18:45+00:00'
 ---
 
 Amet ipsum fugiat Lorem sit consequat quis qui veniam ipsum. Esse aute nostrud irure adipisicing. Incididunt proident ex commodo commodo enim nostrud magna eiusmod in deserunt aliqua.

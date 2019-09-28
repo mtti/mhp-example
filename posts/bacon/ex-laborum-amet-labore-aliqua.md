@@ -2,7 +2,7 @@
 category: bacon
 uuid: ab8e94ea-eb7d-497a-b722-3d25c7a8a5ab
 title: Ex laborum amet labore aliqua.
-publishedAt: '2019-03-29 09:08+00:00'
+publishedAt: '2019-03-29T09:08+00:00'
 ---
 
 Nulla ad ex nulla veniam tempor. Ad irure sit cillum irure minim incididunt occaecat cillum id laboris ad esse. Et aliqua laborum anim nisi mollit. Et anim nostrud amet tempor pariatur et velit aliqua nostrud veniam cupidatat reprehenderit cupidatat. Velit nisi dolor voluptate quis commodo voluptate enim non do deserunt irure dolore elit.

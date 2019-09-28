@@ -2,7 +2,7 @@
 category: eggs
 uuid: 6aa5192c-f636-4330-b0e1-935704ee3e80
 title: Fugiat elit ullamco dolore.
-publishedAt: '2019-01-07 22:25+00:00'
+publishedAt: '2019-01-07T22:25+00:00'
 ---
 
 Laborum duis aliqua ipsum laborum excepteur laboris mollit. Minim in sit laboris eiusmod veniam voluptate aliquip fugiat sunt enim in ullamco cupidatat aliquip. Aute exercitation et aliquip laboris sint ut veniam elit veniam mollit aliqua ea id nulla. Do eiusmod est labore fugiat tempor ipsum irure aute incididunt laboris deserunt. Pariatur sit ullamco Lorem ea minim sit.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: 6251e914-ce02-4b98-a230-c303874e936e
 title: Sint cillum consectetur sit amet.
-publishedAt: '2019-01-25 02:01+00:00'
+publishedAt: '2019-01-25T02:01+00:00'
 ---
 
 Officia et esse occaecat irure labore labore minim. Incididunt non pariatur commodo aute adipisicing. Cupidatat ullamco aliquip proident incididunt excepteur deserunt. Duis labore anim nostrud laboris pariatur nulla ex quis aute cupidatat. Aliqua in laboris do excepteur.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: 625b303c-1bfb-412d-9c71-a194763aa173
 title: Dolore fugiat fugiat pariatur.
-publishedAt: '2018-11-19 23:18+00:00'
+publishedAt: '2018-11-19T23:18+00:00'
 ---
 
 Nisi duis sunt aute incididunt amet sint ex deserunt pariatur. Eiusmod exercitation laborum adipisicing mollit consectetur enim. Lorem dolor sunt adipisicing esse anim. Labore veniam commodo adipisicing qui id in ullamco magna.

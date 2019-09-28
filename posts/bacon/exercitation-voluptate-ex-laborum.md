@@ -2,7 +2,7 @@
 category: bacon
 uuid: 647a95b1-5c94-4b43-b897-022bc8edbeab
 title: Exercitation voluptate ex laborum.
-publishedAt: '2018-06-30 17:11+00:00'
+publishedAt: '2018-06-30T17:11+00:00'
 ---
 
 Cillum quis Lorem et exercitation proident deserunt. Eiusmod labore labore sint nisi do ea cillum ad. Duis occaecat labore cillum voluptate commodo pariatur exercitation nisi. Adipisicing nulla quis commodo anim proident sint voluptate duis Lorem dolore tempor enim occaecat.

@@ -2,7 +2,7 @@
 category: eggs
 uuid: a860526d-7618-4a76-a491-facf29d7d3f5
 title: Sunt ullamco duis adipisicing irure ex.
-publishedAt: '2018-05-29 15:18+00:00'
+publishedAt: '2018-05-29T15:18+00:00'
 ---
 
 Dolor adipisicing tempor qui magna proident cupidatat irure deserunt. Nulla dolore amet eiusmod consectetur veniam aliquip ea voluptate. Pariatur consectetur nulla ullamco aliqua sit Lorem ea velit dolor. Id cupidatat dolore reprehenderit excepteur quis.

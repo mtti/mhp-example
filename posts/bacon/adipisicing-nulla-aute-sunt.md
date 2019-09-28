@@ -2,7 +2,7 @@
 category: bacon
 uuid: b80e87be-f01b-4341-964e-03284ed29d29
 title: Adipisicing nulla aute sunt.
-publishedAt: '2018-08-12 17:39+00:00'
+publishedAt: '2018-08-12T17:39+00:00'
 ---
 
 Duis aliqua nisi nisi consectetur consectetur commodo ea et. Esse pariatur ipsum minim aliqua. Nostrud duis minim exercitation enim consequat ipsum.

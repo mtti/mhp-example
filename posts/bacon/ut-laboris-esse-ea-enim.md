@@ -2,7 +2,7 @@
 category: bacon
 uuid: 160f1b41-7763-4b5a-a7c7-c66f6822ba0c
 title: Ut laboris esse ea enim.
-publishedAt: '2018-07-26 03:16+00:00'
+publishedAt: '2018-07-26T03:16+00:00'
 ---
 
 Qui in cupidatat eu minim commodo eu duis et officia ut nostrud elit. Adipisicing aliquip dolor labore do pariatur irure sunt veniam non minim. Consectetur voluptate ea voluptate eu. Do est eiusmod elit qui ea est nisi sit.

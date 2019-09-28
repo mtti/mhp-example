@@ -2,7 +2,7 @@
 category: bacon
 uuid: 0add46e5-adfd-4d3b-b968-d162bfabb2a4
 title: Ex aute nisi irure officia.
-publishedAt: '2019-03-03 11:28+00:00'
+publishedAt: '2019-03-03T11:28+00:00'
 ---
 
 Dolor pariatur non sunt elit nulla Lorem velit. Dolor irure elit aute aute esse sint ea. Pariatur exercitation fugiat pariatur eiusmod culpa dolor nisi duis quis. Ipsum duis deserunt ex labore ut. Veniam sunt esse do incididunt culpa do aliquip officia ullamco sint minim.

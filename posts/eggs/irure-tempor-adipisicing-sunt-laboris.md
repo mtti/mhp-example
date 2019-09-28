@@ -2,7 +2,7 @@
 category: eggs
 uuid: d4dc0e2c-3b12-4c6f-9a6d-bd38a5e12ef5
 title: Irure tempor adipisicing sunt laboris.
-publishedAt: '2018-06-16 23:35+00:00'
+publishedAt: '2018-06-16T23:35+00:00'
 ---
 
 Commodo nulla deserunt in tempor dolore ut ullamco. Pariatur esse ea cupidatat voluptate consectetur officia exercitation incididunt laboris ad. Pariatur ex minim dolore officia qui voluptate labore. In commodo veniam id tempor laboris occaecat dolor in.

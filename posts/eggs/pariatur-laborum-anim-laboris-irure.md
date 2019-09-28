@@ -2,7 +2,7 @@
 category: eggs
 uuid: 5e336d8e-4e63-4047-8822-9c7d5a3148fe
 title: Pariatur laborum anim laboris irure.
-publishedAt: '2019-03-15 12:34+00:00'
+publishedAt: '2019-03-15T12:34+00:00'
 ---
 
 Dolore velit do sint do proident voluptate pariatur cupidatat incididunt ex reprehenderit aliqua dolor reprehenderit. Nostrud ad nisi ullamco sit culpa dolore occaecat occaecat fugiat eu dolore dolore aliquip dolore. Ea pariatur sint anim quis ea ex esse cillum. Sunt deserunt ex aute consectetur ad adipisicing et exercitation est officia do labore eu veniam. Sunt do enim elit cupidatat qui minim ullamco duis mollit id mollit. Est est laborum Lorem eu irure. Anim voluptate ipsum amet nisi.

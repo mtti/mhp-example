@@ -2,7 +2,7 @@
 category: eggs
 uuid: 120eff79-ce40-407c-81ad-f18703af7fcf
 title: Excepteur magna est est.
-publishedAt: '2018-06-26 02:40+00:00'
+publishedAt: '2018-06-26T02:40+00:00'
 ---
 
 Quis cillum aliqua sint irure amet. Anim adipisicing dolore sint commodo nisi cupidatat reprehenderit nulla commodo. Id occaecat mollit proident amet sunt.

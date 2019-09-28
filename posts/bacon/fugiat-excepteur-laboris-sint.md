@@ -2,7 +2,7 @@
 category: bacon
 uuid: c3bada40-cc3a-4fc3-8bd4-2706d2462c36
 title: Fugiat excepteur laboris sint.
-publishedAt: '2019-04-02 01:26+00:00'
+publishedAt: '2019-04-02T01:26+00:00'
 ---
 
 Aliqua veniam et duis ad esse minim ex duis id duis occaecat amet. Eiusmod consectetur labore ex voluptate ex esse eiusmod. Officia consequat enim consectetur mollit aliqua incididunt mollit et nulla do amet anim aute. Duis nostrud incididunt nisi fugiat officia est fugiat.

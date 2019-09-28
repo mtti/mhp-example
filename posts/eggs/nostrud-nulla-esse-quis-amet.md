@@ -2,7 +2,7 @@
 category: eggs
 uuid: ffc11947-c93c-40b9-8375-1851db41d735
 title: Nostrud nulla esse quis amet.
-publishedAt: '2019-03-30 22:12+00:00'
+publishedAt: '2019-03-30T22:12+00:00'
 ---
 
 Consequat est veniam in proident exercitation veniam. Ex culpa aute id anim exercitation adipisicing ea irure ullamco veniam magna mollit. Dolore qui minim qui irure officia nulla in irure pariatur dolor cillum Lorem. Incididunt sunt deserunt amet sit sunt duis. Nostrud adipisicing exercitation Lorem ea et tempor amet nisi dolor tempor sit aliqua elit. Anim fugiat tempor aliquip do culpa. Labore commodo ullamco voluptate laborum.

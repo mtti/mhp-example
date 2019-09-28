@@ -2,7 +2,7 @@
 category: eggs
 uuid: 7d7153b4-62e6-4fa4-8aa4-8d9667048370
 title: Mollit eu nostrud sit.
-publishedAt: '2018-12-06 11:23+00:00'
+publishedAt: '2018-12-06T11:23+00:00'
 ---
 
 Consectetur nulla nulla labore pariatur reprehenderit eiusmod esse. Dolor minim anim non mollit proident ea sunt. Nisi irure eiusmod anim reprehenderit ullamco consequat labore quis ullamco eu officia deserunt occaecat et.

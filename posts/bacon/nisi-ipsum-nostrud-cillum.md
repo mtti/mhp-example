@@ -2,7 +2,7 @@
 category: bacon
 uuid: 9f9341ee-9493-43fb-9f1c-1dc994e6a805
 title: Nisi ipsum nostrud cillum.
-publishedAt: '2018-12-15 19:11+00:00'
+publishedAt: '2018-12-15T19:11+00:00'
 ---
 
 Do ullamco deserunt reprehenderit quis aliquip magna irure ullamco ullamco voluptate irure reprehenderit. Labore minim pariatur cillum officia minim occaecat aliquip. Magna culpa dolore occaecat exercitation excepteur esse consequat reprehenderit exercitation amet. Velit laborum incididunt cillum irure officia irure culpa cillum veniam aliqua ut eiusmod. Velit nulla fugiat id amet. Id deserunt ea nisi ea commodo elit minim id ut consectetur ut labore occaecat.

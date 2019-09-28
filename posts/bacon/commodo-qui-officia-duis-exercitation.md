@@ -2,7 +2,7 @@
 category: bacon
 uuid: 87636400-d232-4ddd-8f4a-d4a59c3d5f0e
 title: Commodo qui officia duis exercitation.
-publishedAt: '2018-12-07 07:09+00:00'
+publishedAt: '2018-12-07T07:09+00:00'
 ---
 
 Irure voluptate culpa ex ullamco id eiusmod ea. Fugiat aute qui magna occaecat. Mollit quis labore enim dolor nisi aliqua ea labore officia eu.

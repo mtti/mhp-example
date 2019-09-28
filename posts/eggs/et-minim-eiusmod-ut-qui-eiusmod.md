@@ -2,7 +2,7 @@
 category: eggs
 uuid: 59730150-667f-483a-881f-dc9bfebeee61
 title: Et minim eiusmod ut qui eiusmod.
-publishedAt: '2018-12-30 14:04+00:00'
+publishedAt: '2018-12-30T14:04+00:00'
 ---
 
 Sunt ullamco amet anim culpa cillum est non dolore nostrud nostrud minim sunt reprehenderit. Anim elit eu magna aliqua sunt enim pariatur duis elit ipsum enim minim id nulla. Ullamco in ex cillum incididunt laborum do adipisicing adipisicing.

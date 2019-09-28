@@ -2,7 +2,7 @@
 category: bacon
 uuid: d1ab86e4-793d-442d-b14f-c9e2fa4c395e
 title: Aute adipisicing do consequat ut.
-publishedAt: '2018-08-25 19:24+00:00'
+publishedAt: '2018-08-25T19:24+00:00'
 ---
 
 In ipsum mollit deserunt proident anim voluptate ex ipsum ex occaecat. Non esse reprehenderit id in laboris duis do magna mollit dolore exercitation. Do minim proident mollit ad minim labore. Commodo proident consequat quis id id. Sit quis aliqua dolore sunt voluptate exercitation ipsum voluptate eu.

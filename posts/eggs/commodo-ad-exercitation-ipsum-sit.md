@@ -2,7 +2,7 @@
 category: eggs
 uuid: da4b530c-e55f-4e10-98c1-d035c692283a
 title: Commodo ad exercitation ipsum sit.
-publishedAt: '2018-07-28 21:30+00:00'
+publishedAt: '2018-07-28T21:30+00:00'
 ---
 
 Cillum ex elit irure consectetur ipsum non cillum. Lorem ex laboris officia mollit dolore. Duis eu ad incididunt eu ex culpa. Do ad do sint cupidatat dolor labore cupidatat occaecat.

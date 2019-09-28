@@ -2,7 +2,7 @@
 category: eggs
 uuid: af38e615-7f57-441e-84c3-68680dafbb61
 title: Reprehenderit cupidatat consequat laborum.
-publishedAt: '2018-12-10 07:00+00:00'
+publishedAt: '2018-12-10T07:00+00:00'
 ---
 
 Commodo do anim anim ex dolor magna elit aliqua Lorem magna labore aute. Do quis cupidatat ipsum nostrud nisi ipsum ex veniam nisi consectetur ullamco ad. Elit veniam velit exercitation ipsum proident est voluptate mollit eu veniam aute commodo. Veniam non nisi aliquip officia tempor Lorem occaecat ut tempor. Et id cupidatat deserunt dolor in eiusmod amet.

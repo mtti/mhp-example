@@ -2,7 +2,7 @@
 category: eggs
 uuid: 5d176ef3-c55a-4c31-9066-477840c575ec
 title: Sint aliqua in occaecat.
-publishedAt: '2018-07-28 07:37+00:00'
+publishedAt: '2018-07-28T07:37+00:00'
 ---
 
 Cupidatat adipisicing officia magna laborum proident. Fugiat aute est aliqua culpa enim esse mollit aliquip exercitation. Aliquip ipsum duis ad nulla fugiat velit officia enim aute consectetur. Sunt laboris voluptate qui tempor.

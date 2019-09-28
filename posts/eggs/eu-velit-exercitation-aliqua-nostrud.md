@@ -2,7 +2,7 @@
 category: eggs
 uuid: 8ad1bdbc-4321-433c-bc30-2f5287cc7e5a
 title: Eu velit exercitation aliqua nostrud.
-publishedAt: '2018-11-02 23:11+00:00'
+publishedAt: '2018-11-02T23:11+00:00'
 ---
 
 Deserunt amet cupidatat laboris ad laborum consequat dolor. Minim Lorem et duis minim sint veniam ad eiusmod ipsum occaecat do et. Minim dolor irure duis nostrud id veniam laboris.

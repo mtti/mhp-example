@@ -2,7 +2,7 @@
 category: bacon
 uuid: 401344f8-b13d-408e-9df5-0ed14ebcb5c9
 title: Anim deserunt amet aliqua.
-publishedAt: '2018-10-18 19:47+00:00'
+publishedAt: '2018-10-18T19:47+00:00'
 ---
 
 Magna eiusmod dolore culpa amet duis. Officia incididunt reprehenderit irure nostrud ullamco qui in aliqua fugiat. Est consectetur proident veniam non ullamco magna culpa occaecat irure consequat exercitation ut magna. Proident tempor nisi adipisicing ullamco reprehenderit fugiat voluptate. Dolore mollit ullamco aliquip voluptate ullamco excepteur qui sit voluptate sint.

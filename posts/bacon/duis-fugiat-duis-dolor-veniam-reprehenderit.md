@@ -2,7 +2,7 @@
 category: bacon
 uuid: f1e707fd-d122-4def-a702-5d45ec65c048
 title: Duis fugiat duis dolor veniam reprehenderit.
-publishedAt: '2019-05-09 08:08+00:00'
+publishedAt: '2019-05-09T08:08+00:00'
 ---
 
 Sint labore ad officia qui do fugiat magna veniam duis officia officia minim fugiat elit. Officia aliqua velit id incididunt occaecat elit cillum aute et eu non do. Reprehenderit cupidatat consequat ipsum ut exercitation. Mollit commodo in anim eu exercitation eiusmod irure nulla ullamco ipsum esse eu est.

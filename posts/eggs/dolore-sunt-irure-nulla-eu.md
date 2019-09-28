@@ -2,7 +2,7 @@
 category: eggs
 uuid: c8479b98-194a-4144-a7db-1e1f401f5f53
 title: Dolore sunt irure nulla eu.
-publishedAt: '2019-01-11 04:24+00:00'
+publishedAt: '2019-01-11T04:24+00:00'
 ---
 
 Minim laboris velit anim magna ea incididunt esse aliqua dolor duis. Dolor laborum adipisicing dolore veniam nostrud nulla amet proident ipsum. Anim exercitation esse magna adipisicing laboris aute veniam.

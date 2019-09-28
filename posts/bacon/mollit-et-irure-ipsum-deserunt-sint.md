@@ -2,7 +2,7 @@
 category: bacon
 uuid: 08242732-479b-48bb-a010-37fcff03b063
 title: Mollit et irure ipsum deserunt sint.
-publishedAt: '2018-09-29 23:51+00:00'
+publishedAt: '2018-09-29T23:51+00:00'
 ---
 
 Deserunt ut adipisicing sunt sunt deserunt nostrud consequat labore officia aute nisi. Enim anim reprehenderit pariatur exercitation quis incididunt ullamco non est. Reprehenderit ut sint culpa labore non. Ea ullamco nulla reprehenderit nulla quis amet qui labore. Dolor id in magna qui elit eu eiusmod excepteur ipsum irure in mollit. Enim qui ea sunt amet laboris cillum dolore nisi duis ex occaecat ullamco ipsum. In voluptate exercitation ipsum ea consequat eu.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: bcded361-16a8-44b0-ba13-99216481cecd
 title: Culpa anim commodo adipisicing incididunt.
-publishedAt: '2018-09-27 13:00+00:00'
+publishedAt: '2018-09-27T13:00+00:00'
 ---
 
 Irure voluptate ex eu do. Ullamco dolor nulla officia minim ad. Ex ea consectetur culpa nulla culpa et ut pariatur. Ex aute mollit nostrud pariatur velit aliquip ea anim deserunt culpa laboris amet sit ut. Laborum incididunt qui laboris et aliquip magna dolore amet ullamco consectetur. Lorem ex amet qui consectetur eiusmod aliqua ea.

@@ -2,7 +2,7 @@
 category: eggs
 uuid: 04071f49-87f1-4be3-91e9-f527c6a42afc
 title: Est labore nisi in dolor.
-publishedAt: '2018-06-10 19:08+00:00'
+publishedAt: '2018-06-10T19:08+00:00'
 ---
 
 Labore id reprehenderit pariatur ut est dolor magna occaecat. Elit deserunt nulla non reprehenderit fugiat exercitation tempor dolore nulla quis cupidatat labore. Nostrud velit sunt cupidatat pariatur culpa qui aliqua sint magna. Nulla aliquip do proident aliqua consectetur mollit nostrud incididunt elit do sunt reprehenderit nulla. Fugiat voluptate velit culpa irure tempor ullamco deserunt ipsum.

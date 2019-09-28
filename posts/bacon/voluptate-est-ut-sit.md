@@ -2,7 +2,7 @@
 category: bacon
 uuid: d202c34a-e136-4c93-a192-cd0afef63d97
 title: Voluptate est ut sit.
-publishedAt: '2018-05-30 22:14+00:00'
+publishedAt: '2018-05-30T22:14+00:00'
 ---
 
 Ea consequat laborum sit exercitation eu ipsum do esse ullamco. Eiusmod voluptate officia excepteur culpa incididunt eu velit in in esse amet minim qui adipisicing. Elit occaecat anim eu incididunt officia ut amet amet nisi eu sint adipisicing aliquip. Do commodo est sit reprehenderit ea.

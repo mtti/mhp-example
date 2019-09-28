@@ -2,7 +2,7 @@
 category: bacon
 uuid: 3d42bcec-abb4-49ae-b6ca-4334d328ee43
 title: Ut laboris ea commodo id.
-publishedAt: '2018-07-16 00:47+00:00'
+publishedAt: '2018-07-16T00:47+00:00'
 ---
 
 Nisi cillum nostrud dolore ut id tempor in irure esse id anim cillum exercitation cillum. Voluptate duis ipsum non commodo proident ex ut nostrud ipsum amet. Ea ipsum proident excepteur ipsum esse qui.

@@ -2,7 +2,7 @@
 category: bacon
 uuid: a13924eb-1cf2-4a40-b69c-2488d521f71c
 title: Et labore irure aliquip.
-publishedAt: '2018-10-07 05:09+00:00'
+publishedAt: '2018-10-07T05:09+00:00'
 ---
 
 Et ut ea officia cupidatat aute irure sunt anim elit esse enim aliquip aute. Cillum nisi sint nostrud est sit enim enim. Exercitation dolor mollit consectetur elit sunt est irure sit incididunt. Anim aliqua eiusmod commodo sunt amet laborum.
