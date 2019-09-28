@@ -11,9 +11,9 @@
     "build:local": "npm run build:assets && npm run build:content:local",
     "build:assets": "webpack",
     "build:assets:development": "webpack --mode=development",
-    "build:content": "mhp --verbose --keep=assets",
+    "build:content": "node build-content.js",
     "build:content:local": "mhp --verbose --keep=assets --baseUrl=\"http://localhost:8080\"",
-    "test:content": "mhp --keep=assets && node test/scripts.js compare",
+    "test:content": "npm run build:content && node test/scripts.js compare",
     "test:content:snapshot": "node test/scripts.js save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
