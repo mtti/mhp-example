@@ -67,7 +67,7 @@ async function compare() {
   let expected = JSON.parse(fs.readFileSync(CHECKSUM_FILE, 'utf8'));
 
   if (actual.length != expected.length) {
-    console.log(`FAIL: Different number of files: ${expected.length} vs. ${actual.length}`);
+    console.log(`FAIL: Different number of files: expected ${expected.length}, got ${actual.length}`);
     process.exit(1);
   }
 
