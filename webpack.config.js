@@ -1,28 +1,40 @@
 const path = require('path');
 const webpack = require('webpack');
-const HtmlWebPackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const ManifestPlugin = require('webpack-manifest-plugin');
+const CopyPlugin = require('copy-webpack-plugin');
 
 const config = {
   mode: 'production',
-  entry: ['./assets/index.js'],
+  entry: {
+    main: './assets/index.tsx',
+  },
   output: {
     path: path.resolve(__dirname, 'dist/assets'),
     filename: '[name].[chunkhash].js',
   },
   devServer: {
-    contentBase: './dist',
+    contentBase: './dist'
   },
   devtool: 'source-map',
+
+  resolve: {
+    extensions: ['.ts', '.tsx', '.js', '.jsx']
+  },
+
   module: {
     rules: [
       {
-        test: /\.js$/,
+        test: /\.ts(x?)$/,
         exclude: /node_modules/,
         use: [
-          { loader: 'babel-loader' },
-        ],
+          { loader: 'ts-loader' }
+        ]
+      },
+      {
+        enforce: 'pre',
+        test: /\.js$/,
+        loader: 'source-map-loader'
       },
       {
         test: /\.scss$/,
@@ -37,9 +49,19 @@ const config = {
         use: [
           { loader: 'html-loader' },
         ],
-      }
+      },
+      {
+        test: /\.(ttf|eot|woff|woff2)$/,
+        use: {
+          loader: "file-loader",
+          options: {
+            name: "fonts/[name].[ext]",
+          },
+        },
+      },
     ]
   },
+
   plugins: [],
 };
 
@@ -61,7 +83,10 @@ module.exports = (env, argv) => {
   config.plugins.push(new MiniCssExtractPlugin({
     filename: cssFilename,
   }));
-  config.plugins.push(new ManifestPlugin());
+  config.plugins.push(new CopyPlugin([
+    { from: './static', to: 'static' },
+  ]));
 
+  config.plugins.push(new ManifestPlugin());
   return config;
 };
