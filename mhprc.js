@@ -18,7 +18,7 @@ module.exports = {
     branch('/posts/:category/:slug', posts()),
     branch('/', indexes()),
 
-    branch('/feed', rss({
+    branch('/feed.rss.xml', rss({
       uuid: '120024cf-8721-4492-b4de-eb6847c92abb',
       title: 'MHP Test Site Main Atom Feed',
       maxPosts: 50,
