@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@mtti/mhp": "0.2.2",
+    "@types/node": "12.12.21",
     "axios": "0.19.0",
     "bootstrap": "4.4.1",
     "chokidar-cli": "2.1.0",
