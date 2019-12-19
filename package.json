@@ -1,7 +1,7 @@
 {
   "name": "@mtti/mhp-example",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,13 +11,15 @@
     "build:local": "npm run build:assets && npm run build:content:local",
     "build:assets": "webpack",
     "build:assets:development": "webpack --mode=development",
-    "build:content": "node build-content.js",
-    "build:content:local": "mhp --verbose --keep=assets --baseUrl=\"http://localhost:8080\"",
+    "build:content": "mhp",
+    "build:content:local": "mhp --verbose --keep=assets --var \"baseUrl=http://localhost:8080\"",
     "test:content": "npm run build:content && node test/scripts.js compare",
     "test:content:snapshot": "node test/scripts.js save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "@mtti/mhp": "0.2.1",
+    "@mtti/ssup": "mtti/ssup#6a8f966497765b9a0192e19c4d2ac1ab398da122",
     "axios": "0.19.0",
     "@babel/core": "7.5.5",
     "babel-loader": "8.0.6",
@@ -31,8 +33,6 @@
     "html-webpack-plugin": "3.2.0",
     "jquery": "3.4.1",
     "mini-css-extract-plugin": "0.8.0",
-    "@mtti/mhp": "mtti/mhp#e43fc4260f7b2b7027b2d86ce6c4e5bfb22090a9",
-    "@mtti/ssup": "mtti/ssup#6a8f966497765b9a0192e19c4d2ac1ab398da122",
     "node-sass": "4.12.0",
     "popper.js": "1.15.0",
     "prop-types": "15.7.2",
